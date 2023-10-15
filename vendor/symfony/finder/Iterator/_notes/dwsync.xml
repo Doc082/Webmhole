@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268934348072" remote="131615252400000000" Dst="1" />
+<file name="DateRangeFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268935754390" remote="131615252400000000" Dst="1" />
+<file name="DepthRangeFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268935910687" remote="131615252400000000" Dst="1" />
+<file name="ExcludeDirectoryFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268938254507" remote="131615252400000000" Dst="1" />
+<file name="FilePathsIterator.php" server="ftp.tecmar.altervista.org" local="131621268939817089" remote="131615252400000000" Dst="1" />
+<file name="FileTypeFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268940129595" remote="131615252400000000" Dst="1" />
+<file name="FilecontentFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268942008575" remote="131615252400000000" Dst="1" />
+<file name="FilenameFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268944039922" remote="131615252400000000" Dst="1" />
+<file name="FilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268944039922" remote="131615252400000000" Dst="1" />
+<file name="MultiplePcreFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268946540026" remote="131615252400000000" Dst="1" />
+<file name="PathFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268948102616" remote="131615252400000000" Dst="1" />
+<file name="RecursiveDirectoryIterator.php" server="ftp.tecmar.altervista.org" local="131621268948571378" remote="131615252400000000" Dst="1" />
+<file name="SizeRangeFilterIterator.php" server="ftp.tecmar.altervista.org" local="131621268950602733" remote="131615252400000000" Dst="1" />
+<file name="SortableIterator.php" server="ftp.tecmar.altervista.org" local="131621268952321566" remote="131615252400000000" Dst="1" />
+</dwsync>

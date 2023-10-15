@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommentHandler.php" server="ftp.tecmar.altervista.org" local="131621268638966400" remote="131615251800000000" Dst="1" />
+<file name="HandlerInterface.php" server="ftp.tecmar.altervista.org" local="131621268639903907" remote="131615251800000000" Dst="1" />
+<file name="HashHandler.php" server="ftp.tecmar.altervista.org" local="131621268641310722" remote="131615251800000000" Dst="1" />
+<file name="IdentifierHandler.php" server="ftp.tecmar.altervista.org" local="131621268643185826" remote="131615251800000000" Dst="1" />
+<file name="NumberHandler.php" server="ftp.tecmar.altervista.org" local="131621268643967102" remote="131615251800000000" Dst="1" />
+<file name="StringHandler.php" server="ftp.tecmar.altervista.org" local="131621268645529659" remote="131615251800000000" Dst="1" />
+<file name="WhitespaceHandler.php" server="ftp.tecmar.altervista.org" local="131621268647561010" remote="131615251800000000" Dst="1" />
+<file name="CommentHandler.php" server="ftp.webmhole.altervista.org" local="131621268638966400" remote="131622354000000000" Dst="1" />
+<file name="HandlerInterface.php" server="ftp.webmhole.altervista.org" local="131621268639903907" remote="131622354000000000" Dst="1" />
+<file name="HashHandler.php" server="ftp.webmhole.altervista.org" local="131621268641310722" remote="131622354000000000" Dst="1" />
+<file name="StringHandler.php" server="ftp.webmhole.altervista.org" local="131621268645529659" remote="131622354000000000" Dst="1" />
+<file name="IdentifierHandler.php" server="ftp.webmhole.altervista.org" local="131621268643185826" remote="131622354000000000" Dst="1" />
+<file name="NumberHandler.php" server="ftp.webmhole.altervista.org" local="131621268643967102" remote="131622354000000000" Dst="1" />
+<file name="WhitespaceHandler.php" server="ftp.webmhole.altervista.org" local="131621268647561010" remote="131622354000000000" Dst="1" />
+</dwsync>

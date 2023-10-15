@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="code_coverage_id_rsa" server="ftp.tecmar.altervista.org" local="131621266882378608" remote="131614698000000000" Dst="1" />
+<file name="install-php-extensions.sh" server="ftp.tecmar.altervista.org" local="131621266883941194" remote="131614698000000000" Dst="1" />
+<file name="run-phpunit.sh" server="ftp.tecmar.altervista.org" local="131621266885191236" remote="131614698000000000" Dst="1" />
+<file name="setup-composer.sh" server="ftp.tecmar.altervista.org" local="131621266885972557" remote="131614698000000000" Dst="1" />
+<file name="setup-secure-shell.sh" server="ftp.tecmar.altervista.org" local="131621266887535102" remote="131614698000000000" Dst="1" />
+<file name="upload-code-coverage-html.sh" server="ftp.tecmar.altervista.org" local="131621266888472654" remote="131614698000000000" Dst="1" />
+<file name="upload-code-coverage-scrutinizer.sh" server="ftp.tecmar.altervista.org" local="131621266890035211" remote="131614698000000000" Dst="1" />
+<file name="install-php-extensions.sh" server="ftp.webmhole.altervista.org" local="131621266883941194" remote="131622316800000000" Dst="1" />
+<file name="code_coverage_id_rsa" server="ftp.webmhole.altervista.org" local="131621266882378608" remote="131622316800000000" Dst="1" />
+<file name="run-phpunit.sh" server="ftp.webmhole.altervista.org" local="131621266885191236" remote="131622316800000000" Dst="1" />
+<file name="setup-secure-shell.sh" server="ftp.webmhole.altervista.org" local="131621266887535102" remote="131622316800000000" Dst="1" />
+<file name="setup-composer.sh" server="ftp.webmhole.altervista.org" local="131621266885972557" remote="131622316800000000" Dst="1" />
+<file name="upload-code-coverage-html.sh" server="ftp.webmhole.altervista.org" local="131621266888472654" remote="131622316800000000" Dst="1" />
+<file name="upload-code-coverage-scrutinizer.sh" server="ftp.webmhole.altervista.org" local="131621266890035211" remote="131622316800000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ca.crt" server="ftp.tecmar.altervista.org" local="131621267985026865" remote="131615251200000000" Dst="1" />
+<file name="CA.srl" server="ftp.tecmar.altervista.org" local="131621267985339379" remote="131615251200000000" Dst="1" />
+<file name="ca.key" server="ftp.tecmar.altervista.org" local="131621267987214471" remote="131615251200000000" Dst="1" />
+<file name="create-cert.sh" server="ftp.tecmar.altervista.org" local="131621267988777089" remote="131615251200000000" Dst="1" />
+<file name="encrypt.crt" server="ftp.tecmar.altervista.org" local="131621267989089559" remote="131615251200000000" Dst="1" />
+<file name="encrypt.key" server="ftp.tecmar.altervista.org" local="131621267991745935" remote="131615251200000000" Dst="1" />
+<file name="encrypt2.crt" server="ftp.tecmar.altervista.org" local="131621267992370968" remote="131615251200000000" Dst="1" />
+<file name="encrypt2.key" server="ftp.tecmar.altervista.org" local="131621267993308516" remote="131615251200000000" Dst="1" />
+<file name="intermediate.crt" server="ftp.tecmar.altervista.org" local="131621267995808748" remote="131615251200000000" Dst="1" />
+<file name="intermediate.key" server="ftp.tecmar.altervista.org" local="131621267996121144" remote="131615251200000000" Dst="1" />
+<file name="sign.crt" server="ftp.tecmar.altervista.org" local="131621267997527458" remote="131615251200000000" Dst="1" />
+<file name="sign2.crt" server="ftp.tecmar.altervista.org" local="131621267999558797" remote="131615251200000000" Dst="1" />
+<file name="sign.key" server="ftp.tecmar.altervista.org" local="131621268000183830" remote="131615251200000000" Dst="1" />
+<file name="sign2.key" server="ftp.tecmar.altervista.org" local="131621268001433884" remote="131615251200000000" Dst="1" />
+</dwsync>

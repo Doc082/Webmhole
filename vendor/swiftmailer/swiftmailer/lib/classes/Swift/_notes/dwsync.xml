@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Attachment.php" server="ftp.tecmar.altervista.org" local="131621267721935821" remote="131615250600000000" Dst="1" />
+<file name="CharacterReader.php" server="ftp.tecmar.altervista.org" local="131621267734123908" remote="131615250600000000" Dst="1" />
+<file name="CharacterReaderFactory.php" server="ftp.tecmar.altervista.org" local="131621267736780329" remote="131615250600000000" Dst="1" />
+<file name="CharacterStream.php" server="ftp.tecmar.altervista.org" local="131621267740999234" remote="131615250600000000" Dst="1" />
+<file name="ConfigurableSpool.php" server="ftp.tecmar.altervista.org" local="131621267742249292" remote="131615250600000000" Dst="1" />
+<file name="DependencyContainer.php" server="ftp.tecmar.altervista.org" local="131621267742874313" remote="131615250600000000" Dst="1" />
+<file name="DependencyException.php" server="ftp.tecmar.altervista.org" local="131621267744905656" remote="131615250600000000" Dst="1" />
+<file name="EmbeddedFile.php" server="ftp.tecmar.altervista.org" local="131621267746155731" remote="131615250600000000" Dst="1" />
+<file name="Encoder.php" server="ftp.tecmar.altervista.org" local="131621267751781027" remote="131615250600000000" Dst="1" />
+<file name="Encoding.php" server="ftp.tecmar.altervista.org" local="131621267753343543" remote="131615250600000000" Dst="1" />
+<file name="FailoverTransport.php" server="ftp.tecmar.altervista.org" local="131621267775220535" remote="131615250600000000" Dst="1" />
+<file name="FileSpool.php" server="ftp.tecmar.altervista.org" local="131621267777251891" remote="131615250600000000" Dst="1" />
+<file name="FileStream.php" server="ftp.tecmar.altervista.org" local="131621267778658213" remote="131615250600000000" Dst="1" />
+<file name="Filterable.php" server="ftp.tecmar.altervista.org" local="131621267779439481" remote="131615250600000000" Dst="1" />
+<file name="Image.php" server="ftp.tecmar.altervista.org" local="131621267781314581" remote="131615250600000000" Dst="1" />
+<file name="InputByteStream.php" server="ftp.tecmar.altervista.org" local="131621267782877146" remote="131615250600000000" Dst="1" />
+<file name="IoException.php" server="ftp.tecmar.altervista.org" local="131621267783502167" remote="131615250600000000" Dst="1" />
+<file name="KeyCache.php" server="ftp.tecmar.altervista.org" local="131621267792252613" remote="131615250600000000" Dst="1" />
+<file name="LoadBalancedTransport.php" server="ftp.tecmar.altervista.org" local="131621267793971437" remote="131615250600000000" Dst="1" />
+<file name="MailTransport.php" server="ftp.tecmar.altervista.org" local="131621267795534002" remote="131615250600000000" Dst="1" />
+<file name="Mailer.php" server="ftp.tecmar.altervista.org" local="131621267799909199" remote="131615250600000000" Dst="1" />
+<file name="MemorySpool.php" server="ftp.tecmar.altervista.org" local="131621267800536786" remote="131615250600000000" Dst="1" />
+<file name="Message.php" server="ftp.tecmar.altervista.org" local="131621267802411874" remote="131615250600000000" Dst="1" />
+<file name="MimePart.php" server="ftp.tecmar.altervista.org" local="131621267851633783" remote="131615250600000000" Dst="1" />
+<file name="NullTransport.php" server="ftp.tecmar.altervista.org" local="131621267853821393" remote="131615250600000000" Dst="1" />
+<file name="OutputByteStream.php" server="ftp.tecmar.altervista.org" local="131621267855227699" remote="131615250600000000" Dst="1" />
+<file name="Preferences.php" server="ftp.tecmar.altervista.org" local="131621267885015583" remote="131615250600000000" Dst="1" />
+<file name="ReplacementFilterFactory.php" server="ftp.tecmar.altervista.org" local="131621267885953115" remote="131615250600000000" Dst="1" />
+<file name="RfcComplianceException.php" server="ftp.tecmar.altervista.org" local="131621267886734399" remote="131615250600000000" Dst="1" />
+<file name="SendmailTransport.php" server="ftp.tecmar.altervista.org" local="131621267889390780" remote="131615250600000000" Dst="1" />
+<file name="SignedMessage.php" server="ftp.tecmar.altervista.org" local="131621267890174848" remote="131615250600000000" Dst="1" />
+<file name="Signer.php" server="ftp.tecmar.altervista.org" local="131621267891268684" remote="131615250600000000" Dst="1" />
+<file name="SmtpTransport.php" server="ftp.tecmar.altervista.org" local="131621267902362943" remote="131615250600000000" Dst="1" />
+<file name="Spool.php" server="ftp.tecmar.altervista.org" local="131621267903144223" remote="131615250600000000" Dst="1" />
+<file name="SpoolTransport.php" server="ftp.tecmar.altervista.org" local="131621267903769256" remote="131615250600000000" Dst="1" />
+<file name="StreamFilter.php" server="ftp.tecmar.altervista.org" local="131621267906581917" remote="131615250600000000" Dst="1" />
+<file name="SwiftException.php" server="ftp.tecmar.altervista.org" local="131621267911738398" remote="131615250600000000" Dst="1" />
+<file name="Transport.php" server="ftp.tecmar.altervista.org" local="131621267943148164" remote="131615250600000000" Dst="1" />
+<file name="TransportException.php" server="ftp.tecmar.altervista.org" local="131621267945179507" remote="131615250600000000" Dst="1" />
+<file name="Validate.php" server="ftp.tecmar.altervista.org" local="131621267946898364" remote="131615250600000000" Dst="1" />
+</dwsync>

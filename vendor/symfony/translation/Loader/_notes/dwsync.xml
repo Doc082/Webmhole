@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayLoader.php" server="ftp.tecmar.altervista.org" local="131621270257892557" remote="131615253600000000" Dst="1" />
+<file name="CsvFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270259298871" remote="131615253600000000" Dst="1" />
+<file name="IcuResFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270263206476" remote="131615253600000000" Dst="1" />
+<file name="IcuDatFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270264300283" remote="131615253600000000" Dst="1" />
+<file name="IniFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270265862881" remote="131615253600000000" Dst="1" />
+<file name="JsonFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270267737956" remote="131615253600000000" Dst="1" />
+<file name="LoaderInterface.php" server="ftp.tecmar.altervista.org" local="131621270268675520" remote="131615253600000000" Dst="1" />
+<file name="MoFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270270238069" remote="131615253600000000" Dst="1" />
+<file name="PhpFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270272113149" remote="131615253600000000" Dst="1" />
+<file name="PoFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270273206956" remote="131615253600000000" Dst="1" />
+<file name="QtFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270277425914" remote="131615253600000000" Dst="1" />
+<file name="XliffFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270278988470" remote="131615253600000000" Dst="1" />
+<file name="YamlFileLoader.php" server="ftp.tecmar.altervista.org" local="131621270280551043" remote="131615253600000000" Dst="1" />
+</dwsync>

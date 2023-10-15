@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <title>Recensioni - Tecmar di Carola Giuseppe - sito ufficiale</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Mirko Fenu">
+    <meta name="description" content="Impresa specializzata in impianti elettrici, idraulici, termoidraulici e condizionamento, telecamere, videosorveglianza, allarmi, automatismi di 		cancelli elettrici, serrande e sbarre, fotovoltaico e impianti solari ed eolici">
+    <!-- Bootstrap -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/app/views/style.css" rel="stylesheet" type="text/css">
+    <link href="/app/views/star.css" rel="stylesheet" type="text/css"> 
+	<style>
+    body,td,th {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+    </style>
+	
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+  <meta charset="utf-8">
+ <script>
+// faccio il preload dell'immagine utilizzata per l'effetto rollover
+var staron = new Image(); staron.src = "/app/views//img/star-on.gif";
+
+
+
+// Definisco la funzione per "accendere" dinamicamente le stelle
+// unico argomento è il numero di stelle da accendere
+function star_accendi(QT)
+{
+  // verifico che esistano i DIV delle stelle
+  // se il DIV non esiste significa che si è già votato
+  if (document.getElementById('star_1'))
+  {
+    // Ciclo tutte e 5 i DIV contenenti le stelle
+    for (i=1; i<=5; i++)
+    {
+      // se il div è minore o uguale del numero di stelle da accendere
+      // imposto dinamicamente la classe su "on"
+      if (i<=QT) document.getElementById('star_' + i).className = 'on';
+      // in caso contrario spengo la stella...
+      else document.getElementById('star_' + i).className = '';
+    }
+  }
+}
+
+// Questa è la funzione che produce l'output.
+// richiede come unico argomento il numero di stelle che si vuole accendere
+// di default (possiamo in questo, ad esempio, modo mostrare il voto ottenuto
+// nelle precedenti votazioni)
+function star(QT)
+{
+  // stampo il codice HTML che produce le stelle
+  document.write('<div id="STAR_RATING">Vota: <ul>');
+  document.write('<li id="star_1" onclick="star_vota(1)" onmouseover="star_accendi(0); star_accendi(1)"></li>');
+  document.write('<li id="star_2" onclick="star_vota(2)" onmouseover="star_accendi(0); star_accendi(2)"></li>');
+  document.write('<li id="star_3" onclick="star_vota(3)" onmouseover="star_accendi(0); star_accendi(3)"></li>');
+  document.write('<li id="star_4" onclick="star_vota(4)" onmouseover="star_accendi(0); star_accendi(4)"></li>');
+  document.write('<li id="star_5" onclick="star_vota(5)" onmouseover="star_accendi(0); star_accendi(5)"></li>');
+  document.write('</ul></div>');
+  // accendo le stelle definite in argomento
+  star_accendi(QT);
+}
+</script>
+
+  </head>
+  <body>
+  <p>&nbsp;</p>
+  <div class="container">
+   	<ul class="nav nav-pills" >
+  	 <li><a href="home">Home</a></li>
+  	 <li><a href="dove_siamo">Dove Siamo</a></li>
+     <li><a href="contatti">Contatti</a></li>
+     <li class="active"><a href="recensioni">Recensioni</a></li>
+     <li><a href="https://www.facebook.com/Tecmar-di-carola-giuseppe-1415441378717636/" target="_blank">Pagina Facebook</a></li>
+  	</ul>
+  
+  <p>&nbsp;</p>
+ 
+ <div class="row"> 
+  <div class="col-lg-12">
+     <div class="btn_indietro">
+  		 <a href="javascript:history.go(-1)">
+        <span class="glyphicon glyphicon-chevron-left" style="color:yellow;"></span>
+        Indietro</a>
+  	</div>
+    
+	<blockquote class="contenuto-block">
+     	<h2>Tecmar</h2>
+        
+          
+    	  <form action="recensioni" method="post" name="mod_recensione">
+  			
+            <div class="form-group">
+    			<label for="nome">Inserisci qui il tuo nome (lascia vuoto per un commento anonimo):</label>
+    			<input class="form-control" id="nome" name="nome">
+  			</div>
+  		<div class="form-group">
+    		<label for="comment">Commento:</label>
+ 			<textarea class="form-control" rows="5" id="recensione" name="recensione"></textarea>
+  		</div>
+        <div class="form-group">
+    		<input type="hidden" class="form-control" id="valutazione" name="valutazione" value="3">
+  		</div>
+        <div class="form-group">
+    		<input type="hidden" class="form-control" id="conferma" name="conferma" value="no">
+  		</div>
+        
+		<script>star(3);</script>
+  		<div id="STAR_RESULT">&nbsp;</div>
+        <p>&nbsp;</p>
+        	<button class="btn btn-default" onClick="control()">Invia la tua Recensione</button>
+		</form>
+    </blockquote>   
+    <p>&nbsp;</p>
+    <?php if($conteggio>0): ?>
+    	<h2>Le nostre recensioni</h2>
+    	<?php else: ?>
+        <h2>Sii il primo a recensire la ditta Tecmar</h2>
+    <?php endif; ?>
+    
+     <?php foreach($recensioni as $index => $recen): ?> 
+   		<blockquote>
+        	<h4 style="font-weight:bold;"><?php echo $recen->nome; ?></h4>
+        	<h5><?php echo $recen->recensione; ?></h5>
+        	<h6>Lasciata il <?php echo $recen->created_at; ?></h6>
+            <?php for($i=0; $i<5; $i++): ?>
+            	<?php if($recen->voto>$i): ?>
+                	<img alt="stella" src="/app/views//img/star-on.gif">
+                <?php endif; ?>	
+             <?php endfor; ?>
+        
+      </blockquote>
+       <p>&nbsp;</p> 	
+                    
+    
+   <?php endforeach; ?>
+    <p>&nbsp;</p> 	
+    <div class="btn_indietro">
+  		 <a href="javascript:history.go(-1)">
+        <span class="glyphicon glyphicon-chevron-left" style="color:yellow;"></span>
+        Indietro</a>
+  	</div>
+    <p>&nbsp;</p>
+    </div>
+ 
+  </div>
+  
+  
+   	
+   
+   </div>
+   
+  <?php echo $__env->make('footer', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+ 
+  
+  
+   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    
+ <script>
+<!--
+var voto=3;
+function control() {
+	
+   
+   // Funzione di validazione modulo
+    var nome = document.forms.mod_recensione.nome.value;
+	var recensione = document.forms.mod_recensione.recensione.value;
+	
+	document.getElementById('valutazione').value=voto; 
+      
+    document.forms.mod_recensione.action = "recensioni";
+    document.forms.mod_recensione.submit();
+    
+}
+
+// Definisco la funzione per la votazione che verrà lanciata
+// all'evento onclick su una delle 5 stelle
+function star_vota(QT)
+{
+  // Creo una variabile con l'output da restituire al momento del voto
+  var star_output = '<span class="output">Hai votato ' + QT + ' stelle!</span>';
+  // Cambio dinamicamente il contenuto del DIV contenitore con il messaggio di
+  // conferma di votazione avvenuta
+  document.getElementById('STAR_RESULT').innerHTML = star_output;
+  voto=QT;
+}
+//-->
+</script>
+    
+  </body>
+</html>

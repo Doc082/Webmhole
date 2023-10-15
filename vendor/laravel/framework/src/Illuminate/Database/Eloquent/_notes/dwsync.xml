@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Builder.php" server="ftp.tecmar.altervista.org" local="131621265261187715" remote="131614695600000000" Dst="1" />
+<file name="Collection.php" server="ftp.tecmar.altervista.org" local="131621265263062815" remote="131614695600000000" Dst="1" />
+<file name="MassAssignmentException.php" server="ftp.tecmar.altervista.org" local="131621265263062815" remote="131614695600000000" Dst="1" />
+<file name="ModelNotFoundException.php" server="ftp.tecmar.altervista.org" local="131621265267125497" remote="131614695600000000" Dst="1" />
+<file name="Model.php" server="ftp.tecmar.altervista.org" local="131621265267594271" remote="131614695600000000" Dst="1" />
+<file name="ScopeInterface.php" server="ftp.tecmar.altervista.org" local="131621265288846850" remote="131614695600000000" Dst="1" />
+<file name="SoftDeletingScope.php" server="ftp.tecmar.altervista.org" local="131621265289628139" remote="131614695600000000" Dst="1" />
+<file name="SoftDeletingTrait.php" server="ftp.tecmar.altervista.org" local="131621265292128285" remote="131614695600000000" Dst="1" />
+<file name="Builder.php" server="ftp.webmhole.altervista.org" local="131621265261187715" remote="131622309600000000" Dst="1" />
+<file name="MassAssignmentException.php" server="ftp.webmhole.altervista.org" local="131621265263062815" remote="131622309600000000" Dst="1" />
+<file name="Collection.php" server="ftp.webmhole.altervista.org" local="131621265263062815" remote="131622309600000000" Dst="1" />
+<file name="ModelNotFoundException.php" server="ftp.webmhole.altervista.org" local="131621265267125497" remote="131622309600000000" Dst="1" />
+<file name="Model.php" server="ftp.webmhole.altervista.org" local="131621265267594271" remote="131622309600000000" Dst="1" />
+<file name="ScopeInterface.php" server="ftp.webmhole.altervista.org" local="131621265288846850" remote="131622309600000000" Dst="1" />
+<file name="SoftDeletingScope.php" server="ftp.webmhole.altervista.org" local="131621265289628139" remote="131622309600000000" Dst="1" />
+<file name="SoftDeletingTrait.php" server="ftp.webmhole.altervista.org" local="131621265292128285" remote="131622309600000000" Dst="1" />
+</dwsync>

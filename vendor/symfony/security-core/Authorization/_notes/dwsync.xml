@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDecisionManager.php" server="ftp.tecmar.altervista.org" local="131621269833294485" remote="131615253600000000" Dst="1" />
+<file name="AccessDecisionManagerInterface.php" server="ftp.tecmar.altervista.org" local="131621269834544523" remote="131615253600000000" Dst="1" />
+<file name="AuthorizationChecker.php" server="ftp.tecmar.altervista.org" local="131621269834700790" remote="131615253600000000" Dst="1" />
+<file name="AuthorizationCheckerInterface.php" server="ftp.tecmar.altervista.org" local="131621269837357154" remote="131615253600000000" Dst="1" />
+<file name="ExpressionLanguage.php" server="ftp.tecmar.altervista.org" local="131621269839075983" remote="131615253600000000" Dst="1" />
+<file name="ExpressionLanguageProvider.php" server="ftp.tecmar.altervista.org" local="131621269840326049" remote="131615253600000000" Dst="1" />
+</dwsync>

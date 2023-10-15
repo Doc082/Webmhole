@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CramMd5Authenticator.php" server="ftp.tecmar.altervista.org" local="131621267915332289" remote="131615250600000000" Dst="1" />
+<file name="LoginAuthenticator.php" server="ftp.tecmar.altervista.org" local="131621267916426101" remote="131615250600000000" Dst="1" />
+<file name="NTLMAuthenticator.php" server="ftp.tecmar.altervista.org" local="131621267918769950" remote="131615250600000000" Dst="1" />
+<file name="PlainAuthenticator.php" server="ftp.tecmar.altervista.org" local="131621267919707494" remote="131615250600000000" Dst="1" />
+<file name="XOAuth2Authenticator.php" server="ftp.tecmar.altervista.org" local="131621267921115873" remote="131615250600000000" Dst="1" />
+</dwsync>

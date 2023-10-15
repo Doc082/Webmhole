@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DatabaseReminderRepository.php" server="ftp.tecmar.altervista.org" local="131621265153112580" remote="131614695600000000" Dst="1" />
+<file name="PasswordBroker.php" server="ftp.tecmar.altervista.org" local="131621265156862763" remote="131614695600000000" Dst="1" />
+<file name="RemindableInterface.php" server="ftp.tecmar.altervista.org" local="131621265158269077" remote="131614695600000000" Dst="1" />
+<file name="RemindableTrait.php" server="ftp.tecmar.altervista.org" local="131621265159206621" remote="131614695600000000" Dst="1" />
+<file name="ReminderRepositoryInterface.php" server="ftp.tecmar.altervista.org" local="131621265161237964" remote="131614695600000000" Dst="1" />
+<file name="ReminderServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265163113072" remote="131614695600000000" Dst="1" />
+<file name="DatabaseReminderRepository.php" server="ftp.webmhole.altervista.org" local="131621265153112580" remote="131622309000000000" Dst="1" />
+<file name="PasswordBroker.php" server="ftp.webmhole.altervista.org" local="131621265156862763" remote="131622309000000000" Dst="1" />
+<file name="RemindableInterface.php" server="ftp.webmhole.altervista.org" local="131621265158269077" remote="131622309000000000" Dst="1" />
+<file name="ReminderRepositoryInterface.php" server="ftp.webmhole.altervista.org" local="131621265161237964" remote="131622309000000000" Dst="1" />
+<file name="RemindableTrait.php" server="ftp.webmhole.altervista.org" local="131621265159206621" remote="131622309000000000" Dst="1" />
+<file name="ReminderServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265163113072" remote="131622309000000000" Dst="1" />
+</dwsync>

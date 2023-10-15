@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FailedTableCommand.php" server="ftp.tecmar.altervista.org" local="131621265510675918" remote="131614695600000000" Dst="1" />
+<file name="FlushFailedCommand.php" server="ftp.tecmar.altervista.org" local="131621265510675918" remote="131614695600000000" Dst="1" />
+<file name="ForgetFailedCommand.php" server="ftp.tecmar.altervista.org" local="131621265512551030" remote="131614695600000000" Dst="1" />
+<file name="ListFailedCommand.php" server="ftp.tecmar.altervista.org" local="131621265514426102" remote="131614695600000000" Dst="1" />
+<file name="ListenCommand.php" server="ftp.tecmar.altervista.org" local="131621265514738608" remote="131614695600000000" Dst="1" />
+<file name="RestartCommand.php" server="ftp.tecmar.altervista.org" local="131621265517394976" remote="131614695600000000" Dst="1" />
+<file name="RetryCommand.php" server="ftp.tecmar.altervista.org" local="131621265518332524" remote="131614695600000000" Dst="1" />
+<file name="SubscribeCommand.php" server="ftp.tecmar.altervista.org" local="131621265519738842" remote="131614695600000000" Dst="1" />
+<file name="WorkCommand.php" server="ftp.tecmar.altervista.org" local="131621265522082704" remote="131614695600000000" Dst="1" />
+<file name="FailedTableCommand.php" server="ftp.webmhole.altervista.org" local="131621265510675918" remote="131622310800000000" Dst="1" />
+<file name="FlushFailedCommand.php" server="ftp.webmhole.altervista.org" local="131621265510675918" remote="131622310800000000" Dst="1" />
+<file name="ForgetFailedCommand.php" server="ftp.webmhole.altervista.org" local="131621265512551030" remote="131622310800000000" Dst="1" />
+<file name="ListenCommand.php" server="ftp.webmhole.altervista.org" local="131621265514738608" remote="131622310800000000" Dst="1" />
+<file name="ListFailedCommand.php" server="ftp.webmhole.altervista.org" local="131621265514426102" remote="131622310800000000" Dst="1" />
+<file name="RestartCommand.php" server="ftp.webmhole.altervista.org" local="131621265517394976" remote="131622310800000000" Dst="1" />
+<file name="RetryCommand.php" server="ftp.webmhole.altervista.org" local="131621265518332524" remote="131622310800000000" Dst="1" />
+<file name="WorkCommand.php" server="ftp.webmhole.altervista.org" local="131621265522082704" remote="131622311400000000" Dst="1" />
+<file name="SubscribeCommand.php" server="ftp.webmhole.altervista.org" local="131621265519738842" remote="131622311400000000" Dst="1" />
+</dwsync>

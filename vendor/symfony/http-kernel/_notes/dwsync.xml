@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="ftp.tecmar.altervista.org" local="131621269218698691" remote="131615252400000000" Dst="1" />
+<file name="Client.php" server="ftp.tecmar.altervista.org" local="131621269227765166" remote="131615252400000000" Dst="1" />
+<file name="HttpKernel.php" server="ftp.tecmar.altervista.org" local="131621269368205014" remote="131615253000000000" Dst="1" />
+<file name="HttpKernelInterface.php" server="ftp.tecmar.altervista.org" local="131621269368673813" remote="131615253000000000" Dst="1" />
+<file name="Kernel.php" server="ftp.tecmar.altervista.org" local="131621269371486424" remote="131615253000000000" Dst="1" />
+<file name="KernelEvents.php" server="ftp.tecmar.altervista.org" local="131621269372111437" remote="131615253000000000" Dst="1" />
+<file name="KernelInterface.php" server="ftp.tecmar.altervista.org" local="131621269373361512" remote="131615253000000000" Dst="1" />
+<file name="LICENSE" server="ftp.tecmar.altervista.org" local="131621269375861620" remote="131615253000000000" Dst="1" />
+<file name="TerminableInterface.php" server="ftp.tecmar.altervista.org" local="131621269401962526" remote="131615253000000000" Dst="1" />
+<file name="README.md" server="ftp.tecmar.altervista.org" local="131621269402431168" remote="131615253000000000" Dst="1" />
+<file name="UriSigner.php" server="ftp.tecmar.altervista.org" local="131621269542388346" remote="131615253000000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621269544888463" remote="131615252400000000" Dst="1" />
+<file name="phpunit.xml.dist" server="ftp.tecmar.altervista.org" local="131621269546294785" remote="131615253000000000" Dst="1" />
+</dwsync>

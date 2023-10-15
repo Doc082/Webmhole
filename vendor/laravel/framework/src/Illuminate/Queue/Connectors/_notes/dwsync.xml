@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BeanstalkdConnector.php" server="ftp.tecmar.altervista.org" local="131621265502081004" remote="131614695600000000" Dst="1" />
+<file name="ConnectorInterface.php" server="ftp.tecmar.altervista.org" local="131621265502393511" remote="131614695600000000" Dst="1" />
+<file name="IronConnector.php" server="ftp.tecmar.altervista.org" local="131621265504268594" remote="131614695600000000" Dst="1" />
+<file name="RedisConnector.php" server="ftp.tecmar.altervista.org" local="131621265506612468" remote="131614695600000000" Dst="1" />
+<file name="SqsConnector.php" server="ftp.tecmar.altervista.org" local="131621265506612468" remote="131614695600000000" Dst="1" />
+<file name="SyncConnector.php" server="ftp.tecmar.altervista.org" local="131621265508175029" remote="131614695600000000" Dst="1" />
+<file name="BeanstalkdConnector.php" server="ftp.webmhole.altervista.org" local="131621265502081004" remote="131622310800000000" Dst="1" />
+<file name="ConnectorInterface.php" server="ftp.webmhole.altervista.org" local="131621265502393511" remote="131622310800000000" Dst="1" />
+<file name="IronConnector.php" server="ftp.webmhole.altervista.org" local="131621265504268594" remote="131622310800000000" Dst="1" />
+<file name="RedisConnector.php" server="ftp.webmhole.altervista.org" local="131621265506612468" remote="131622310800000000" Dst="1" />
+<file name="SqsConnector.php" server="ftp.webmhole.altervista.org" local="131621265506612468" remote="131622310800000000" Dst="1" />
+<file name="SyncConnector.php" server="ftp.webmhole.altervista.org" local="131621265508175029" remote="131622310800000000" Dst="1" />
+</dwsync>

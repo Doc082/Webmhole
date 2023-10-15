@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Connector.php" server="ftp.tecmar.altervista.org" local="131621265238454307" remote="131614695600000000" Dst="1" />
+<file name="ConnectionFactory.php" server="ftp.tecmar.altervista.org" local="131621265238610559" remote="131614695600000000" Dst="1" />
+<file name="ConnectorInterface.php" server="ftp.tecmar.altervista.org" local="131621265239935875" remote="131614695600000000" Dst="1" />
+<file name="PostgresConnector.php" server="ftp.tecmar.altervista.org" local="131621265242748498" remote="131614695600000000" Dst="1" />
+<file name="MySqlConnector.php" server="ftp.tecmar.altervista.org" local="131621265242748498" remote="131614695600000000" Dst="1" />
+<file name="SQLiteConnector.php" server="ftp.tecmar.altervista.org" local="131621265244311080" remote="131614695600000000" Dst="1" />
+<file name="SqlServerConnector.php" server="ftp.tecmar.altervista.org" local="131621265246967485" remote="131614695600000000" Dst="1" />
+<file name="ConnectionFactory.php" server="ftp.webmhole.altervista.org" local="131621265238610559" remote="131622309600000000" Dst="1" />
+<file name="Connector.php" server="ftp.webmhole.altervista.org" local="131621265238454307" remote="131622309600000000" Dst="1" />
+<file name="ConnectorInterface.php" server="ftp.webmhole.altervista.org" local="131621265239935875" remote="131622309600000000" Dst="1" />
+<file name="PostgresConnector.php" server="ftp.webmhole.altervista.org" local="131621265242748498" remote="131622309600000000" Dst="1" />
+<file name="MySqlConnector.php" server="ftp.webmhole.altervista.org" local="131621265242748498" remote="131622309600000000" Dst="1" />
+<file name="SQLiteConnector.php" server="ftp.webmhole.altervista.org" local="131621265244311080" remote="131622309600000000" Dst="1" />
+<file name="SqlServerConnector.php" server="ftp.webmhole.altervista.org" local="131621265246967485" remote="131622309600000000" Dst="1" />
+</dwsync>

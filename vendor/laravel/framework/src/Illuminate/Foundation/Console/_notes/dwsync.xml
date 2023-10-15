@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AssetPublishCommand.php" server="ftp.tecmar.altervista.org" local="131621265391044786" remote="131614695600000000" Dst="1" />
+<file name="AutoloadCommand.php" server="ftp.tecmar.altervista.org" local="131621265393232384" remote="131614695600000000" Dst="1" />
+<file name="ChangesCommand.php" server="ftp.tecmar.altervista.org" local="131621265394951225" remote="131614695600000000" Dst="1" />
+<file name="ClearCompiledCommand.php" server="ftp.tecmar.altervista.org" local="131621265395263752" remote="131614695600000000" Dst="1" />
+<file name="CommandMakeCommand.php" server="ftp.tecmar.altervista.org" local="131621265397607601" remote="131614695600000000" Dst="1" />
+<file name="ConfigPublishCommand.php" server="ftp.tecmar.altervista.org" local="131621265398857651" remote="131614695600000000" Dst="1" />
+<file name="DownCommand.php" server="ftp.tecmar.altervista.org" local="131621265399013898" remote="131614695600000000" Dst="1" />
+<file name="EnvironmentCommand.php" server="ftp.tecmar.altervista.org" local="131621265401670279" remote="131614695600000000" Dst="1" />
+<file name="MigratePublishCommand.php" server="ftp.tecmar.altervista.org" local="131621265402920346" remote="131614695600000000" Dst="1" />
+<file name="KeyGenerateCommand.php" server="ftp.tecmar.altervista.org" local="131621265402920346" remote="131614695600000000" Dst="1" />
+<file name="OptimizeCommand.php" server="ftp.tecmar.altervista.org" local="131621265406826764" remote="131614695600000000" Dst="1" />
+<file name="RoutesCommand.php" server="ftp.tecmar.altervista.org" local="131621265406983044" remote="131614695600000000" Dst="1" />
+<file name="ServeCommand.php" server="ftp.tecmar.altervista.org" local="131621265410108178" remote="131614695600000000" Dst="1" />
+<file name="TailCommand.php" server="ftp.tecmar.altervista.org" local="131621265411045714" remote="131614695600000000" Dst="1" />
+<file name="TinkerCommand.php" server="ftp.tecmar.altervista.org" local="131621265411045714" remote="131614695600000000" Dst="1" />
+<file name="UpCommand.php" server="ftp.tecmar.altervista.org" local="131621265414170860" remote="131614695600000000" Dst="1" />
+<file name="ViewPublishCommand.php" server="ftp.tecmar.altervista.org" local="131621265415264667" remote="131614695600000000" Dst="1" />
+<file name="AutoloadCommand.php" server="ftp.webmhole.altervista.org" local="131621265393232384" remote="131622310200000000" Dst="1" />
+<file name="AssetPublishCommand.php" server="ftp.webmhole.altervista.org" local="131621265391044786" remote="131622310200000000" Dst="1" />
+<file name="ChangesCommand.php" server="ftp.webmhole.altervista.org" local="131621265394951225" remote="131622310200000000" Dst="1" />
+<file name="ClearCompiledCommand.php" server="ftp.webmhole.altervista.org" local="131621265395263752" remote="131622310200000000" Dst="1" />
+<file name="CommandMakeCommand.php" server="ftp.webmhole.altervista.org" local="131621265397607601" remote="131622310200000000" Dst="1" />
+<file name="ConfigPublishCommand.php" server="ftp.webmhole.altervista.org" local="131621265398857651" remote="131622310200000000" Dst="1" />
+<file name="DownCommand.php" server="ftp.webmhole.altervista.org" local="131621265399013898" remote="131622310200000000" Dst="1" />
+<file name="EnvironmentCommand.php" server="ftp.webmhole.altervista.org" local="131621265401670279" remote="131622310200000000" Dst="1" />
+<file name="KeyGenerateCommand.php" server="ftp.webmhole.altervista.org" local="131621265402920346" remote="131622310200000000" Dst="1" />
+<file name="MigratePublishCommand.php" server="ftp.webmhole.altervista.org" local="131621265402920346" remote="131622310200000000" Dst="1" />
+<file name="RoutesCommand.php" server="ftp.webmhole.altervista.org" local="131621265406983044" remote="131622310200000000" Dst="1" />
+<file name="ServeCommand.php" server="ftp.webmhole.altervista.org" local="131621265410108178" remote="131622310200000000" Dst="1" />
+<file name="OptimizeCommand.php" server="ftp.webmhole.altervista.org" local="131621265406826764" remote="131622310200000000" Dst="1" />
+<file name="TinkerCommand.php" server="ftp.webmhole.altervista.org" local="131621265411045714" remote="131622310200000000" Dst="1" />
+<file name="UpCommand.php" server="ftp.webmhole.altervista.org" local="131621265414170860" remote="131622310200000000" Dst="1" />
+<file name="TailCommand.php" server="ftp.webmhole.altervista.org" local="131621265411045714" remote="131622310200000000" Dst="1" />
+<file name="ViewPublishCommand.php" server="ftp.webmhole.altervista.org" local="131621265415264667" remote="131622310200000000" Dst="1" />
+</dwsync>

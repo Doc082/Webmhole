@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpTransport.php" server="ftp.tecmar.altervista.org" local="131621267913300946" remote="131615250600000000" Dst="1" />
+<file name="EsmtpHandler.php" server="ftp.tecmar.altervista.org" local="131621267925178600" remote="131615250600000000" Dst="1" />
+<file name="EsmtpTransport.php" server="ftp.tecmar.altervista.org" local="131621267926428662" remote="131615250600000000" Dst="1" />
+<file name="FailoverTransport.php" server="ftp.tecmar.altervista.org" local="131621267927991211" remote="131615250600000000" Dst="1" />
+<file name="IoBuffer.php" server="ftp.tecmar.altervista.org" local="131621267929710039" remote="131615250600000000" Dst="1" />
+<file name="LoadBalancedTransport.php" server="ftp.tecmar.altervista.org" local="131621267930491320" remote="131615250600000000" Dst="1" />
+<file name="MailInvoker.php" server="ftp.tecmar.altervista.org" local="131621267932210160" remote="131615250600000000" Dst="1" />
+<file name="MailTransport.php" server="ftp.tecmar.altervista.org" local="131621267934085248" remote="131615250600000000" Dst="1" />
+<file name="NullTransport.php" server="ftp.tecmar.altervista.org" local="131621267934554035" remote="131615250600000000" Dst="1" />
+<file name="SendmailTransport.php" server="ftp.tecmar.altervista.org" local="131621267936585361" remote="131615250600000000" Dst="1" />
+<file name="SimpleMailInvoker.php" server="ftp.tecmar.altervista.org" local="131621267938304185" remote="131615250600000000" Dst="1" />
+<file name="SmtpAgent.php" server="ftp.tecmar.altervista.org" local="131621267938929227" remote="131615250600000000" Dst="1" />
+<file name="SpoolTransport.php" server="ftp.tecmar.altervista.org" local="131621267940804376" remote="131615250600000000" Dst="1" />
+<file name="StreamBuffer.php" server="ftp.tecmar.altervista.org" local="131621267942679394" remote="131615250600000000" Dst="1" />
+</dwsync>

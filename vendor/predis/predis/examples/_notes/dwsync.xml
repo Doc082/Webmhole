@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomDistributionStrategy.php" server="ftp.tecmar.altervista.org" local="131621266912224816" remote="131614698000000000" Dst="1" />
+<file name="DispatcherLoop.php" server="ftp.tecmar.altervista.org" local="131621266912224816" remote="131614698000000000" Dst="1" />
+<file name="KeyPrefixes.php" server="ftp.tecmar.altervista.org" local="131621266913006105" remote="131614698000000000" Dst="1" />
+<file name="MasterSlaveReplication.php" server="ftp.tecmar.altervista.org" local="131621266916131247" remote="131614698000000000" Dst="1" />
+<file name="MasterSlaveReplicationComplex.php" server="ftp.tecmar.altervista.org" local="131621266916443762" remote="131614698000000000" Dst="1" />
+<file name="MonitorContext.php" server="ftp.tecmar.altervista.org" local="131621266916756272" remote="131614698000000000" Dst="1" />
+<file name="MultiBulkReplyIterators.php" server="ftp.tecmar.altervista.org" local="131621266920193966" remote="131614698000000000" Dst="1" />
+<file name="MultipleSetAndGet.php" server="ftp.tecmar.altervista.org" local="131621266920193966" remote="131614698000000000" Dst="1" />
+<file name="PipelineContext.php" server="ftp.tecmar.altervista.org" local="131621266920818971" remote="131614698000000000" Dst="1" />
+<file name="PubSubContext.php" server="ftp.tecmar.altervista.org" local="131621266924100368" remote="131614698000000000" Dst="1" />
+<file name="RedisCollectionsIterators.php" server="ftp.tecmar.altervista.org" local="131621266924256631" remote="131614698000000000" Dst="1" />
+<file name="ServerSideScripting.php" server="ftp.tecmar.altervista.org" local="131621266924725401" remote="131614698000000000" Dst="1" />
+<file name="SessionHandler.php" server="ftp.tecmar.altervista.org" local="131621266928163062" remote="131614698000000000" Dst="1" />
+<file name="SharedConfigurations.php" server="ftp.tecmar.altervista.org" local="131621266928163062" remote="131614698000000000" Dst="1" />
+<file name="SimpleDebuggableConnection.php" server="ftp.tecmar.altervista.org" local="131621266928944351" remote="131614698000000000" Dst="1" />
+<file name="TransactionWithCAS.php" server="ftp.tecmar.altervista.org" local="131621266932069497" remote="131614698000000000" Dst="1" />
+<file name="SimpleSetAndGet.php" server="ftp.tecmar.altervista.org" local="131621266932225761" remote="131614698000000000" Dst="1" />
+</dwsync>

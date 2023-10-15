@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BelongsTo.php" server="ftp.tecmar.altervista.org" local="131621265267125497" remote="131614695600000000" Dst="1" />
+<file name="HasMany.php" server="ftp.tecmar.altervista.org" local="131621265271031928" remote="131614695600000000" Dst="1" />
+<file name="BelongsToMany.php" server="ftp.tecmar.altervista.org" local="131621265271656965" remote="131614695600000000" Dst="1" />
+<file name="HasManyThrough.php" server="ftp.tecmar.altervista.org" local="131621265271813217" remote="131614695600000000" Dst="1" />
+<file name="HasOne.php" server="ftp.tecmar.altervista.org" local="131621265275250882" remote="131614695600000000" Dst="1" />
+<file name="HasOneOrMany.php" server="ftp.tecmar.altervista.org" local="131621265275563400" remote="131614695600000000" Dst="1" />
+<file name="MorphMany.php" server="ftp.tecmar.altervista.org" local="131621265276344677" remote="131614695600000000" Dst="1" />
+<file name="MorphOne.php" server="ftp.tecmar.altervista.org" local="131621265279157308" remote="131614695600000000" Dst="1" />
+<file name="MorphOneOrMany.php" server="ftp.tecmar.altervista.org" local="131621265279469827" remote="131614695600000000" Dst="1" />
+<file name="MorphPivot.php" server="ftp.tecmar.altervista.org" local="131621265280407375" remote="131614695600000000" Dst="1" />
+<file name="MorphTo.php" server="ftp.tecmar.altervista.org" local="131621265283688776" remote="131614695600000000" Dst="1" />
+<file name="MorphToMany.php" server="ftp.tecmar.altervista.org" local="131621265284626316" remote="131614695600000000" Dst="1" />
+<file name="Pivot.php" server="ftp.tecmar.altervista.org" local="131621265285563856" remote="131614695600000000" Dst="1" />
+<file name="Relation.php" server="ftp.tecmar.altervista.org" local="131621265287751462" remote="131614695600000000" Dst="1" />
+<file name="BelongsTo.php" server="ftp.webmhole.altervista.org" local="131621265267125497" remote="131622309600000000" Dst="1" />
+<file name="BelongsToMany.php" server="ftp.webmhole.altervista.org" local="131621265271656965" remote="131622309600000000" Dst="1" />
+<file name="HasMany.php" server="ftp.webmhole.altervista.org" local="131621265271031928" remote="131622309600000000" Dst="1" />
+<file name="HasManyThrough.php" server="ftp.webmhole.altervista.org" local="131621265271813217" remote="131622309600000000" Dst="1" />
+<file name="HasOne.php" server="ftp.webmhole.altervista.org" local="131621265275250882" remote="131622309600000000" Dst="1" />
+<file name="HasOneOrMany.php" server="ftp.webmhole.altervista.org" local="131621265275563400" remote="131622309600000000" Dst="1" />
+<file name="MorphMany.php" server="ftp.webmhole.altervista.org" local="131621265276344677" remote="131622309600000000" Dst="1" />
+<file name="MorphOne.php" server="ftp.webmhole.altervista.org" local="131621265279157308" remote="131622309600000000" Dst="1" />
+<file name="MorphOneOrMany.php" server="ftp.webmhole.altervista.org" local="131621265279469827" remote="131622309600000000" Dst="1" />
+<file name="MorphPivot.php" server="ftp.webmhole.altervista.org" local="131621265280407375" remote="131622309600000000" Dst="1" />
+<file name="MorphTo.php" server="ftp.webmhole.altervista.org" local="131621265283688776" remote="131622309600000000" Dst="1" />
+<file name="MorphToMany.php" server="ftp.webmhole.altervista.org" local="131621265284626316" remote="131622309600000000" Dst="1" />
+<file name="Pivot.php" server="ftp.webmhole.altervista.org" local="131621265285563856" remote="131622309600000000" Dst="1" />
+<file name="Relation.php" server="ftp.webmhole.altervista.org" local="131621265287751462" remote="131622309600000000" Dst="1" />
+</dwsync>

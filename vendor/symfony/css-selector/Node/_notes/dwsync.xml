@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractNode.php" server="ftp.tecmar.altervista.org" local="131621268622246849" remote="131615251800000000" Dst="1" />
+<file name="AttributeNode.php" server="ftp.tecmar.altervista.org" local="131621268623028117" remote="131615251800000000" Dst="1" />
+<file name="ClassNode.php" server="ftp.tecmar.altervista.org" local="131621268625840753" remote="131615251800000000" Dst="1" />
+<file name="ElementNode.php" server="ftp.tecmar.altervista.org" local="131621268627090808" remote="131615251800000000" Dst="1" />
+<file name="CombinedSelectorNode.php" server="ftp.tecmar.altervista.org" local="131621268627090808" remote="131615251800000000" Dst="1" />
+<file name="FunctionNode.php" server="ftp.tecmar.altervista.org" local="131621268629590929" remote="131615251800000000" Dst="1" />
+<file name="HashNode.php" server="ftp.tecmar.altervista.org" local="131621268630841000" remote="131615251800000000" Dst="1" />
+<file name="NegationNode.php" server="ftp.tecmar.altervista.org" local="131621268631466021" remote="131615251800000000" Dst="1" />
+<file name="NodeInterface.php" server="ftp.tecmar.altervista.org" local="131621268633341100" remote="131615251800000000" Dst="1" />
+<file name="PseudoNode.php" server="ftp.tecmar.altervista.org" local="131621268634903681" remote="131615251800000000" Dst="1" />
+<file name="SelectorNode.php" server="ftp.tecmar.altervista.org" local="131621268635684986" remote="131615251800000000" Dst="1" />
+<file name="Specificity.php" server="ftp.tecmar.altervista.org" local="131621268637247560" remote="131615251800000000" Dst="1" />
+<file name="AbstractNode.php" server="ftp.webmhole.altervista.org" local="131621268622246849" remote="131622354000000000" Dst="1" />
+<file name="AttributeNode.php" server="ftp.webmhole.altervista.org" local="131621268623028117" remote="131622354000000000" Dst="1" />
+<file name="ClassNode.php" server="ftp.webmhole.altervista.org" local="131621268625840753" remote="131622354000000000" Dst="1" />
+<file name="CombinedSelectorNode.php" server="ftp.webmhole.altervista.org" local="131621268627090808" remote="131622354000000000" Dst="1" />
+<file name="ElementNode.php" server="ftp.webmhole.altervista.org" local="131621268627090808" remote="131622354000000000" Dst="1" />
+<file name="FunctionNode.php" server="ftp.webmhole.altervista.org" local="131621268629590929" remote="131622354000000000" Dst="1" />
+<file name="HashNode.php" server="ftp.webmhole.altervista.org" local="131621268630841000" remote="131622354000000000" Dst="1" />
+<file name="NegationNode.php" server="ftp.webmhole.altervista.org" local="131621268631466021" remote="131622354000000000" Dst="1" />
+<file name="NodeInterface.php" server="ftp.webmhole.altervista.org" local="131621268633341100" remote="131622354000000000" Dst="1" />
+<file name="SelectorNode.php" server="ftp.webmhole.altervista.org" local="131621268635684986" remote="131622354000000000" Dst="1" />
+<file name="Specificity.php" server="ftp.webmhole.altervista.org" local="131621268637247560" remote="131622354000000000" Dst="1" />
+<file name="PseudoNode.php" server="ftp.webmhole.altervista.org" local="131621268634903681" remote="131622354000000000" Dst="1" />
+</dwsync>

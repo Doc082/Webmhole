@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AddRequestFormatsListener.php" server="ftp.tecmar.altervista.org" local="131621269284648275" remote="131615253000000000" Dst="1" />
+<file name="DebugHandlersListener.php" server="ftp.tecmar.altervista.org" local="131621269286523359" remote="131615253000000000" Dst="1" />
+<file name="DumpListener.php" server="ftp.tecmar.altervista.org" local="131621269287460874" remote="131615253000000000" Dst="1" />
+<file name="ErrorsLoggerListener.php" server="ftp.tecmar.altervista.org" local="131621269289648485" remote="131615253000000000" Dst="1" />
+<file name="EsiListener.php" server="ftp.tecmar.altervista.org" local="131621269291054803" remote="131615253000000000" Dst="1" />
+<file name="ExceptionListener.php" server="ftp.tecmar.altervista.org" local="131621269291523585" remote="131615253000000000" Dst="1" />
+<file name="FragmentListener.php" server="ftp.tecmar.altervista.org" local="131621269293867447" remote="131615253000000000" Dst="1" />
+<file name="LocaleListener.php" server="ftp.tecmar.altervista.org" local="131621269294648739" remote="131615253000000000" Dst="1" />
+<file name="ProfilerListener.php" server="ftp.tecmar.altervista.org" local="131621269295586263" remote="131615253000000000" Dst="1" />
+<file name="ResponseListener.php" server="ftp.tecmar.altervista.org" local="131621269298086396" remote="131615253000000000" Dst="1" />
+<file name="RouterListener.php" server="ftp.tecmar.altervista.org" local="131621269298867689" remote="131615253000000000" Dst="1" />
+<file name="SaveSessionListener.php" server="ftp.tecmar.altervista.org" local="131621269299648973" remote="131615253000000000" Dst="1" />
+<file name="StreamedResponseListener.php" server="ftp.tecmar.altervista.org" local="131621269303244786" remote="131615253000000000" Dst="1" />
+<file name="SessionListener.php" server="ftp.tecmar.altervista.org" local="131621269303244786" remote="131615253000000000" Dst="1" />
+<file name="SurrogateListener.php" server="ftp.tecmar.altervista.org" local="131621269304807376" remote="131615253000000000" Dst="1" />
+<file name="TestSessionListener.php" server="ftp.tecmar.altervista.org" local="131621269306994966" remote="131615253000000000" Dst="1" />
+<file name="TranslatorListener.php" server="ftp.tecmar.altervista.org" local="131621269307463731" remote="131615253000000000" Dst="1" />
+<file name="ValidateRequestListener.php" server="ftp.tecmar.altervista.org" local="131621269308713810" remote="131615253000000000" Dst="1" />
+</dwsync>

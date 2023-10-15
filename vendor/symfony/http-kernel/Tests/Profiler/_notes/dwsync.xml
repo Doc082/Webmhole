@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractProfilerStorageTest.php" server="ftp.tecmar.altervista.org" local="131621269522759455" remote="131615253000000000" Dst="1" />
+<file name="FileProfilerStorageTest.php" server="ftp.tecmar.altervista.org" local="131621269524549646" remote="131615253000000000" Dst="1" />
+<file name="MemcacheProfilerStorageTest.php" server="ftp.tecmar.altervista.org" local="131621269525722242" remote="131615253000000000" Dst="1" />
+<file name="MemcachedProfilerStorageTest.php" server="ftp.tecmar.altervista.org" local="131621269527387661" remote="131615253000000000" Dst="1" />
+<file name="MongoDbProfilerStorageTest.php" server="ftp.tecmar.altervista.org" local="131621269533638006" remote="131615253000000000" Dst="1" />
+<file name="ProfilerTest.php" server="ftp.tecmar.altervista.org" local="131621269534419217" remote="131615253000000000" Dst="1" />
+<file name="RedisProfilerStorageTest.php" server="ftp.tecmar.altervista.org" local="131621269537231853" remote="131615253000000000" Dst="1" />
+<file name="SqliteProfilerStorageTest.php" server="ftp.tecmar.altervista.org" local="131621269538481952" remote="131615253000000000" Dst="1" />
+</dwsync>

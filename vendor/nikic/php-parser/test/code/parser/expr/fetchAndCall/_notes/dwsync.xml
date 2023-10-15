@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="args.test" server="ftp.tecmar.altervista.org" local="131621266432767280" remote="131614696800000000" Dst="1" />
+<file name="constFetch.test" server="ftp.tecmar.altervista.org" local="131621266434954870" remote="131614696800000000" Dst="1" />
+<file name="constantDeref.test" server="ftp.tecmar.altervista.org" local="131621266435579912" remote="131614696800000000" Dst="1" />
+<file name="funcCall.test" server="ftp.tecmar.altervista.org" local="131621266436517464" remote="131614696800000000" Dst="1" />
+<file name="newDeref.test" server="ftp.tecmar.altervista.org" local="131621266438861301" remote="131614696800000000" Dst="1" />
+<file name="objectAccess.test" server="ftp.tecmar.altervista.org" local="131621266439486330" remote="131614696800000000" Dst="1" />
+<file name="simpleArrayAccess.test" server="ftp.tecmar.altervista.org" local="131621266440267619" remote="131614696800000000" Dst="1" />
+<file name="staticCall.test" server="ftp.tecmar.altervista.org" local="131621266442924003" remote="131614696800000000" Dst="1" />
+<file name="staticPropertyFetch.test" server="ftp.tecmar.altervista.org" local="131621266443236518" remote="131614696800000000" Dst="1" />
+<file name="args.test" server="ftp.webmhole.altervista.org" local="131621266432767280" remote="131622314400000000" Dst="1" />
+<file name="constantDeref.test" server="ftp.webmhole.altervista.org" local="131621266435579912" remote="131622314400000000" Dst="1" />
+<file name="constFetch.test" server="ftp.webmhole.altervista.org" local="131621266434954870" remote="131622314400000000" Dst="1" />
+<file name="funcCall.test" server="ftp.webmhole.altervista.org" local="131621266436517464" remote="131622314400000000" Dst="1" />
+<file name="newDeref.test" server="ftp.webmhole.altervista.org" local="131621266438861301" remote="131622314400000000" Dst="1" />
+<file name="objectAccess.test" server="ftp.webmhole.altervista.org" local="131621266439486330" remote="131622314400000000" Dst="1" />
+<file name="simpleArrayAccess.test" server="ftp.webmhole.altervista.org" local="131621266440267619" remote="131622314400000000" Dst="1" />
+<file name="staticCall.test" server="ftp.webmhole.altervista.org" local="131621266442924003" remote="131622314400000000" Dst="1" />
+<file name="staticPropertyFetch.test" server="ftp.webmhole.altervista.org" local="131621266443236518" remote="131622314400000000" Dst="1" />
+</dwsync>

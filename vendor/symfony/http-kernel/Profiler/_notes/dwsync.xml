@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseMemcacheProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269382895529" remote="131615253000000000" Dst="1" />
+<file name="FileProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269382895529" remote="131615253000000000" Dst="1" />
+<file name="MemcacheProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269385708198" remote="131615253000000000" Dst="1" />
+<file name="MemcachedProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269386801968" remote="131615253000000000" Dst="1" />
+<file name="MongoDbProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269388364533" remote="131615253000000000" Dst="1" />
+<file name="MysqlProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269390552135" remote="131615253000000000" Dst="1" />
+<file name="Profile.php" server="ftp.tecmar.altervista.org" local="131621269393521026" remote="131615253000000000" Dst="1" />
+<file name="PdoProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269393677286" remote="131615253000000000" Dst="1" />
+<file name="Profiler.php" server="ftp.tecmar.altervista.org" local="131621269395083604" remote="131615253000000000" Dst="1" />
+<file name="ProfilerStorageInterface.php" server="ftp.tecmar.altervista.org" local="131621269397583729" remote="131615253000000000" Dst="1" />
+<file name="RedisProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269398052486" remote="131615253000000000" Dst="1" />
+<file name="SqliteProfilerStorage.php" server="ftp.tecmar.altervista.org" local="131621269399302541" remote="131615253000000000" Dst="1" />
+</dwsync>

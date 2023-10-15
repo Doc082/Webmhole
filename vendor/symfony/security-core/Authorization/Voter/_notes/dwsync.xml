@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractVoter.php" server="ftp.tecmar.altervista.org" local="131621269842201158" remote="131615253600000000" Dst="1" />
+<file name="AuthenticatedVoter.php" server="ftp.tecmar.altervista.org" local="131621269842982413" remote="131615253600000000" Dst="1" />
+<file name="ExpressionVoter.php" server="ftp.tecmar.altervista.org" local="131621269844857530" remote="131615253600000000" Dst="1" />
+<file name="RoleHierarchyVoter.php" server="ftp.tecmar.altervista.org" local="131621269846420082" remote="131615253600000000" Dst="1" />
+<file name="RoleVoter.php" server="ftp.tecmar.altervista.org" local="131621269847357618" remote="131615253600000000" Dst="1" />
+<file name="VoterInterface.php" server="ftp.tecmar.altervista.org" local="131621269849076483" remote="131615253600000000" Dst="1" />
+</dwsync>

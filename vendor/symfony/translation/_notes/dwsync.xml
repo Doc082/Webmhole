@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="ftp.tecmar.altervista.org" local="131621270209138522" remote="131615253600000000" Dst="1" />
+<file name="DataCollectorTranslator.php" server="ftp.tecmar.altervista.org" local="131621270224608922" remote="131615253600000000" Dst="1" />
+<file name="IdentityTranslator.php" server="ftp.tecmar.altervista.org" local="131621270253829879" remote="131615253600000000" Dst="1" />
+<file name="Interval.php" server="ftp.tecmar.altervista.org" local="131621270255392452" remote="131615253600000000" Dst="1" />
+<file name="LICENSE" server="ftp.tecmar.altervista.org" local="131621270257111277" remote="131615253600000000" Dst="1" />
+<file name="LoggingTranslator.php" server="ftp.tecmar.altervista.org" local="131621270285240984" remote="131615253600000000" Dst="1" />
+<file name="MessageCatalogueInterface.php" server="ftp.tecmar.altervista.org" local="131621270289303678" remote="131615253600000000" Dst="1" />
+<file name="MessageCatalogue.php" server="ftp.tecmar.altervista.org" local="131621270289459962" remote="131615253600000000" Dst="1" />
+<file name="MessageSelector.php" server="ftp.tecmar.altervista.org" local="131621270291803807" remote="131615253600000000" Dst="1" />
+<file name="PluralizationRules.php" server="ftp.tecmar.altervista.org" local="131621270293366372" remote="131615253600000000" Dst="1" />
+<file name="MetadataAwareInterface.php" server="ftp.tecmar.altervista.org" local="131621270293678903" remote="131615253600000000" Dst="1" />
+<file name="README.md" server="ftp.tecmar.altervista.org" local="131621270296335263" remote="131615253600000000" Dst="1" />
+<file name="Translator.php" server="ftp.tecmar.altervista.org" local="131621270422848245" remote="131615254200000000" Dst="1" />
+<file name="TranslatorBagInterface.php" server="ftp.tecmar.altervista.org" local="131621270423785772" remote="131615254200000000" Dst="1" />
+<file name="TranslatorInterface.php" server="ftp.tecmar.altervista.org" local="131621270425817156" remote="131615254200000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621270428160989" remote="131615253600000000" Dst="1" />
+<file name="phpunit.xml.dist" server="ftp.tecmar.altervista.org" local="131621270431598650" remote="131615253600000000" Dst="1" />
+<file name="CHANGELOG.md" server="ftp.webmhole.altervista.org" local="131621270209138522" remote="131622357600000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621270428160989" remote="131622357600000000" Dst="1" />
+</dwsync>

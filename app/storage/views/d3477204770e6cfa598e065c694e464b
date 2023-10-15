@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <title>Tecmar di Carola Giuseppe</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Mirko Fenu">
+    <meta name="description" content="Impresa specializzata in impianti elettrici, idraulici, termoidraulici e condizionamento, telecamere, videosorveglianza, allarmi, automatismi di 		cancelli elettrici, serrande e sbarre, fotovoltaico e impianti solari ed eolici">
+    <!-- Bootstrap -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/app/views//style.css" rel="stylesheet" type="text/css"> 
+	<style>
+    body,td,th {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+    </style>
+	
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+  <meta charset="utf-8">
+  </head>
+  <body>
+  <?php if($password!='geffry'): ?> 
+  	<script>window.location = "/admin";</script>    
+  <?php endif; ?>
+  
+  <p>&nbsp;</p>
+  <div class="container">
+   	<ul class="nav nav-pills" >
+  	 <li><a href="/home">Home</a></li>
+  	 <li><a href="/dove_siamo">Dove Siamo</a></li>
+     <li><a href="/contatti">Contatti</a></li>
+     <li><a href="/recensioni">Recensioni</a></li>
+     <li><a href="/nuovi_lavori">I Nostri Lavori</a></li>
+     <li><a href="https://www.facebook.com/Tecmar-di-carola-giuseppe-1415441378717636/" target="_blank">Pagina Facebook</a></li>
+  	</ul>
+  
+  <p>&nbsp;</p>
+ <div class="btn_indietro">
+  		 <a href="javascript:history.go(-1)">
+        <span class="glyphicon glyphicon-chevron-left" style="color:yellow;"></span>
+        Indietro</a>
+  	</div>
+    <p>&nbsp;</p>
+ <div class="row"> 
+  <div class="col-lg-12">
+   <?php foreach($recensioni as $index => $recen): ?> 
+   		<blockquote>
+        	<h3><?php echo $recen->nome; ?></h3>
+        	<h4><?php echo $recen->recensione; ?></h4>
+            <h6>Lasciata il <?php echo $recen->created_at; ?></h6>
+        	<?php for($i=0; $i<5; $i++): ?>
+            	<?php if($recen->voto>$i): ?>
+                	<img alt="stella" src="/app/views/img/star-on.gif">
+                <?php endif; ?>	
+             <?php endfor; ?>
+        <p>&nbsp;</p>
+        <div>
+        	
+            <a  class="btn btn-danger" role="button"role="button" href="<?php echo route('elimina_recensione', ['id' => $recen->id, 'password' => $password]); ?>">Elimina Recensione</a>
+            <?php if($recen->conferma=='no'): ?>
+            	
+                <a  class="btn btn-primary" role="button" href="<?php echo route('conferma_recensione', ['id' => $recen->id, 'password' => $password]); ?>">Conferma recensione</a>
+            	
+            <?php endif; ?>
+        
+    </blockquote>
+   <?php endforeach; ?>
+    
+		
+    	
+        
+    <p>&nbsp;</p>
+   <div class="btn_indietro">
+  		 <a href="javascript:history.go(-1)">
+        <span class="glyphicon glyphicon-chevron-left" style="color:yellow;"></span>
+        Indietro</a>
+  	</div>
+   
+    <p>&nbsp;</p>
+    </div>
+ 
+  </div>
+  
+  
+   	
+   
+   </div>
+   
+  <?php echo $__env->make('footer', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>  
+  
+   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>

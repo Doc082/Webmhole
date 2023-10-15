@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedHttpException.php" server="ftp.tecmar.altervista.org" local="131621269311526442" remote="131615253000000000" Dst="1" />
+<file name="BadRequestHttpException.php" server="ftp.tecmar.altervista.org" local="131621269311682706" remote="131615253000000000" Dst="1" />
+<file name="ConflictHttpException.php" server="ftp.tecmar.altervista.org" local="131621269313401530" remote="131615253000000000" Dst="1" />
+<file name="FatalErrorException.php" server="ftp.tecmar.altervista.org" local="131621269315901635" remote="131615253000000000" Dst="1" />
+<file name="FlattenException.php" server="ftp.tecmar.altervista.org" local="131621269318043516" remote="131615253000000000" Dst="1" />
+<file name="GoneHttpException.php" server="ftp.tecmar.altervista.org" local="131621269319410280" remote="131615253000000000" Dst="1" />
+<file name="HttpException.php" server="ftp.tecmar.altervista.org" local="131621269320701223" remote="131615253000000000" Dst="1" />
+<file name="HttpExceptionInterface.php" server="ftp.tecmar.altervista.org" local="131621269323513879" remote="131615253000000000" Dst="1" />
+<file name="LengthRequiredHttpException.php" server="ftp.tecmar.altervista.org" local="131621269323670110" remote="131615253000000000" Dst="1" />
+<file name="MethodNotAllowedHttpException.php" server="ftp.tecmar.altervista.org" local="131621269325076428" remote="131615253000000000" Dst="1" />
+<file name="NotAcceptableHttpException.php" server="ftp.tecmar.altervista.org" local="131621269327420269" remote="131615253000000000" Dst="1" />
+<file name="NotFoundHttpException.php" server="ftp.tecmar.altervista.org" local="131621269327576553" remote="131615253000000000" Dst="1" />
+<file name="PreconditionFailedHttpException.php" server="ftp.tecmar.altervista.org" local="131621269328982875" remote="131615253000000000" Dst="1" />
+<file name="PreconditionRequiredHttpException.php" server="ftp.tecmar.altervista.org" local="131621269331483698" remote="131615253000000000" Dst="1" />
+<file name="ServiceUnavailableHttpException.php" server="ftp.tecmar.altervista.org" local="131621269331796180" remote="131615253000000000" Dst="1" />
+<file name="TooManyRequestsHttpException.php" server="ftp.tecmar.altervista.org" local="131621269333046250" remote="131615253000000000" Dst="1" />
+<file name="UnauthorizedHttpException.php" server="ftp.tecmar.altervista.org" local="131621269335858870" remote="131615253000000000" Dst="1" />
+<file name="UnprocessableEntityHttpException.php" server="ftp.tecmar.altervista.org" local="131621269335858870" remote="131615253000000000" Dst="1" />
+<file name="UnsupportedMediaTypeHttpException.php" server="ftp.tecmar.altervista.org" local="131621269337265188" remote="131615253000000000" Dst="1" />
+</dwsync>

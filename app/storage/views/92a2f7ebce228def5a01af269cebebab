@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage"  prefix="og: http://ogp.me/ns#">
+  <head>
+    <title>Tecmar di Carola Giuseppe</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Mirko Fenu">
+    <meta name="description" content="Impresa specializzata in impianti elettrici, idraulici, termoidraulici e condizionamento, telecamere, videosorveglianza, allarmi, automatismi di 		cancelli elettrici, serrande e sbarre, fotovoltaico e impianti solari ed eolici">
+    <?php
+		$fotos = explode(",", $articolo->foto);
+		echo "<meta property=\"og:url\"  content=\"http://tecmar.altervista.org/nostri_articoli/".str_replace(" ", "_", $articolo->titolo)."\" />\n";
+		echo "<meta property=\"og:type\" content=\"article\" />\n";
+		echo "<meta property=\"og:title\"  content=\"".$articolo->titolo."\" />\n";
+		echo "<meta property=\"og:description\" content=\"".$articolo->testo."\" />\n";
+		echo "<meta property=\"og:image\" content=\"http://tecmar.altervista.org/app/views/uploads/".$fotos[0]."\" />\n";
+	?>
+    
+    <!-- Bootstrap -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/app/views/style.css" rel="stylesheet" type="text/css"> 
+	<style>
+    body,td,th {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+    </style>
+	
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+  <meta charset="utf-8">
+  </head>
+  <body>
+  
+  
+  <p>&nbsp;</p>
+  <div class="container">
+   	<ul class="nav nav-pills" >
+  	 <li><a href="/home">Home</a></li>
+  	 <li><a href="/dove_siamo">Dove Siamo</a></li>
+     <li><a href="/contatti">Contatti</a></li>
+     <li><a href="/recensioni">Recensioni</a></li>
+     <li class="active"><a href="nuovi_lavori">I Nostri Lavori</a></li>
+     <li><a href="https://www.facebook.com/Tecmar-di-carola-giuseppe-1415441378717636/" target="_blank">Pagina Facebook</a></li>
+  	</ul>
+  
+  <p>&nbsp;</p>
+ 
+ <div class="row"> 
+  <div class="col-lg-3 col-sm-12">
+  	<?php
+		//$fotos = explode(",", $articolo->foto);
+		foreach($fotos as $key => $foto){
+			echo "<a href=\"/app/views/uploads/$foto\" target=\"_blank\"><img class=\"img-articoli\" alt=\"Foto Lavoro N° $key\" src=\"/app/views/uploads/$foto\"></a>";
+		}
+	?>
+  </div>
+  <div class="col-lg-8 col-sm-12">
+    <blockquote>
+    	<h1><?php echo $articolo->titolo; ?></h1>
+        <p>&nbsp;</p>
+    	<h3><?php echo $articolo->testo; ?></h3>
+        <p>&nbsp;</p>
+    	<?php
+			$hashtags = explode(",", $articolo->hashtag);
+			echo "<h5>";
+			foreach($hashtags as $index => $hashtag){
+				if($index != 0) echo ", ";
+				$hashtag = trim($hashtag);
+				$nomehashtag = "#".$hashtag;
+				$hashtag = str_replace(" ", "_", $hashtag);
+				echo "<a href=\"/cerca_articoli/".$hashtag."\">$nomehashtag</a>";	
+			}
+			echo "</h5>\n";
+		?>
+        
+        <h6>Articolo scritto il <?php echo $articolo->created_at; ?></h6>
+     </blockquote>   
+    <p>&nbsp;</p>
+    <div class="btn_indietro">
+  		 <a href="javascript:history.go(-1)">
+        <span class="glyphicon glyphicon-chevron-left" style="color:yellow;"></span>
+        Indietro</a>
+  	</div>
+   
+    <p>&nbsp;</p>
+    </div>
+ 
+  </div>
+  
+  
+   	
+   
+   </div>
+   
+  <?php echo $__env->make('footer', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>  
+  
+   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>

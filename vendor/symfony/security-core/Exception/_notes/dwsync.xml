@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedException.php" server="ftp.tecmar.altervista.org" local="131621269872831220" remote="131615253600000000" Dst="1" />
+<file name="AccountExpiredException.php" server="ftp.tecmar.altervista.org" local="131621269874550048" remote="131615253600000000" Dst="1" />
+<file name="AccountStatusException.php" server="ftp.tecmar.altervista.org" local="131621269875487580" remote="131615253600000000" Dst="1" />
+<file name="AuthenticationCredentialsNotFoundException.php" server="ftp.tecmar.altervista.org" local="131621269877206416" remote="131615253600000000" Dst="1" />
+<file name="AuthenticationException.php" server="ftp.tecmar.altervista.org" local="131621269878925261" remote="131615253600000000" Dst="1" />
+<file name="AuthenticationServiceException.php" server="ftp.tecmar.altervista.org" local="131621269879706546" remote="131615253600000000" Dst="1" />
+<file name="BadCredentialsException.php" server="ftp.tecmar.altervista.org" local="131621269882987935" remote="131615253600000000" Dst="1" />
+<file name="CookieTheftException.php" server="ftp.tecmar.altervista.org" local="131621269884237989" remote="131615253600000000" Dst="1" />
+<file name="CredentialsExpiredException.php" server="ftp.tecmar.altervista.org" local="131621269885956810" remote="131615253600000000" Dst="1" />
+<file name="DisabledException.php" server="ftp.tecmar.altervista.org" local="131621269886581843" remote="131615253600000000" Dst="1" />
+<file name="ExceptionInterface.php" server="ftp.tecmar.altervista.org" local="131621269889707006" remote="131615253600000000" Dst="1" />
+<file name="InsufficientAuthenticationException.php" server="ftp.tecmar.altervista.org" local="131621269890957064" remote="131615253600000000" Dst="1" />
+<file name="InvalidCsrfTokenException.php" server="ftp.tecmar.altervista.org" local="131621269896113545" remote="131615253600000000" Dst="1" />
+<file name="LockedException.php" server="ftp.tecmar.altervista.org" local="131621269897676110" remote="131615253600000000" Dst="1" />
+<file name="LogoutException.php" server="ftp.tecmar.altervista.org" local="131621269900332482" remote="131615253600000000" Dst="1" />
+<file name="NonceExpiredException.php" server="ftp.tecmar.altervista.org" local="131621269901896180" remote="131615253600000000" Dst="1" />
+<file name="ProviderNotFoundException.php" server="ftp.tecmar.altervista.org" local="131621269904552594" remote="131615253600000000" Dst="1" />
+<file name="RuntimeException.php" server="ftp.tecmar.altervista.org" local="131621269906427636" remote="131615253600000000" Dst="1" />
+<file name="SessionUnavailableException.php" server="ftp.tecmar.altervista.org" local="131621269909084013" remote="131615253600000000" Dst="1" />
+<file name="TokenNotFoundException.php" server="ftp.tecmar.altervista.org" local="131621269910959113" remote="131615253600000000" Dst="1" />
+<file name="UnsupportedUserException.php" server="ftp.tecmar.altervista.org" local="131621269915959338" remote="131615253600000000" Dst="1" />
+<file name="UsernameNotFoundException.php" server="ftp.tecmar.altervista.org" local="131621269918771974" remote="131615253600000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="ftp.tecmar.altervista.org" local="131621269996835750" remote="131615253600000000" Dst="1" />
+</dwsync>

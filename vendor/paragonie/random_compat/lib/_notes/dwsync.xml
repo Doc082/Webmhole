@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="byte_safe_strings.php" server="ftp.tecmar.altervista.org" local="131621266544187494" remote="131614697400000000" Dst="1" />
+<file name="cast_to_int.php" server="ftp.tecmar.altervista.org" local="131621266544968779" remote="131614697400000000" Dst="1" />
+<file name="error_polyfill.php" server="ftp.tecmar.altervista.org" local="131621266546375101" remote="131614697400000000" Dst="1" />
+<file name="random.php" server="ftp.tecmar.altervista.org" local="131621266548406440" remote="131614697400000000" Dst="1" />
+<file name="random_bytes_com_dotnet.php" server="ftp.tecmar.altervista.org" local="131621266549031481" remote="131614697400000000" Dst="1" />
+<file name="random_bytes_dev_urandom.php" server="ftp.tecmar.altervista.org" local="131621266550437787" remote="131614697400000000" Dst="1" />
+<file name="random_bytes_libsodium.php" server="ftp.tecmar.altervista.org" local="131621266552469138" remote="131614697400000000" Dst="1" />
+<file name="random_bytes_libsodium_legacy.php" server="ftp.tecmar.altervista.org" local="131621266553406686" remote="131614697400000000" Dst="1" />
+<file name="random_bytes_mcrypt.php" server="ftp.tecmar.altervista.org" local="131621266554813070" remote="131614697400000000" Dst="1" />
+<file name="random_bytes_openssl.php" server="ftp.tecmar.altervista.org" local="131621266556688071" remote="131614697400000000" Dst="1" />
+<file name="random_int.php" server="ftp.tecmar.altervista.org" local="131621266557781883" remote="131614697400000000" Dst="1" />
+<file name="byte_safe_strings.php" server="ftp.webmhole.altervista.org" local="131621266544187494" remote="131622315000000000" Dst="1" />
+<file name="cast_to_int.php" server="ftp.webmhole.altervista.org" local="131621266544968779" remote="131622315000000000" Dst="1" />
+<file name="error_polyfill.php" server="ftp.webmhole.altervista.org" local="131621266546375101" remote="131622315000000000" Dst="1" />
+<file name="random.php" server="ftp.webmhole.altervista.org" local="131621266548406440" remote="131622315000000000" Dst="1" />
+<file name="random_bytes_com_dotnet.php" server="ftp.webmhole.altervista.org" local="131621266549031481" remote="131622315000000000" Dst="1" />
+<file name="random_bytes_dev_urandom.php" server="ftp.webmhole.altervista.org" local="131621266550437787" remote="131622315000000000" Dst="1" />
+<file name="random_bytes_libsodium.php" server="ftp.webmhole.altervista.org" local="131621266552469138" remote="131622315000000000" Dst="1" />
+<file name="random_bytes_libsodium_legacy.php" server="ftp.webmhole.altervista.org" local="131621266553406686" remote="131622315000000000" Dst="1" />
+<file name="random_bytes_mcrypt.php" server="ftp.webmhole.altervista.org" local="131621266554813070" remote="131622315000000000" Dst="1" />
+<file name="random_bytes_openssl.php" server="ftp.webmhole.altervista.org" local="131621266556688071" remote="131622315000000000" Dst="1" />
+<file name="random_int.php" server="ftp.webmhole.altervista.org" local="131621266557781883" remote="131622315000000000" Dst="1" />
+</dwsync>

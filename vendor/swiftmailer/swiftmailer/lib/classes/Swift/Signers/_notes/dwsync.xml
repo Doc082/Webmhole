@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BodySigner.php" server="ftp.tecmar.altervista.org" local="131621267893768780" remote="131615250600000000" Dst="1" />
+<file name="DKIMSigner.php" server="ftp.tecmar.altervista.org" local="131621267895018843" remote="131615250600000000" Dst="1" />
+<file name="DomainKeySigner.php" server="ftp.tecmar.altervista.org" local="131621267895956391" remote="131615250600000000" Dst="1" />
+<file name="HeaderSigner.php" server="ftp.tecmar.altervista.org" local="131621267898143981" remote="131615250600000000" Dst="1" />
+<file name="OpenDKIMSigner.php" server="ftp.tecmar.altervista.org" local="131621267899081541" remote="131615250600000000" Dst="1" />
+<file name="SMimeSigner.php" server="ftp.tecmar.altervista.org" local="131621267900019097" remote="131615250600000000" Dst="1" />
+</dwsync>

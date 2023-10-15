@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <title>I Nostri Lavori - Tecmar di Carola Giuseppe</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Mirko Fenu">
+    <meta name="description" content="Impresa specializzata in impianti elettrici, idraulici, termoidraulici e condizionamento, telecamere, videosorveglianza, allarmi, automatismi di 		cancelli elettrici, serrande e sbarre, fotovoltaico e impianti solari ed eolici">
+    <!-- Bootstrap -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/app/views/style.css" rel="stylesheet" type="text/css"> 
+	<style>
+    body,td,th {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+    </style>
+	
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+    <![endif]-->
+  <meta charset="utf-8">
+  </head>
+  <body>
+   
+  <p>&nbsp;</p>
+  <div class="container">
+   	<ul class="nav nav-pills" >
+  	 <li><a href="/home">Home</a></li>
+  	 <li><a href="/dove_siamo">Dove Siamo</a></li>
+     <li><a href="/contatti">Contatti</a></li>
+     <li><a href="/recensioni">Recensioni</a></li>
+     <li class="active"><a href="nuovi_lavori">I Nostri Lavori</a></li>
+     <li><a href="https://www.facebook.com/Tecmar-di-carola-giuseppe-1415441378717636/" target="_blank">Pagina Facebook</a></li>
+  	</ul>
+  
+  <p>&nbsp;</p>
+ 	<div class="btn_indietro">
+  		 <a href="javascript:history.go(-1)">
+        <span class="glyphicon glyphicon-chevron-left" style="color:yellow;"></span>
+        Indietro</a>
+  	</div>
+ 	<p>&nbsp;</p>
+  
+  	<?php
+		echo "<h1>RSS Generato</h1>\n";
+		
+		$file=fopen('articoli.xml', 'w');	
+		fwrite($file, "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n");
+		fwrite($file, "<rss version=\"2.0\" xmlns:content=\"http://purl.org/rss/1.0/modules/content\"/>\n");
+		fwrite($file, "<channel>\n");
+		fwrite($file, "<title>Tecmar di Carola Giuseppe e Mario</title>\n");
+		fwrite($file, "<link>http://tecmar.altervista.org/</link>\n");
+		fwrite($file, "<description>Impresa specializzata in impianti elettrici, idraulici, termoidraulici e condizionamento, telecamere, videosorveglianza, allarmi, automatismi di 		cancelli elettrici, serrande e sbarre, fotovoltaico e impianti solari ed eolici</description>\n");
+		
+		foreach($articoli as $articolo)
+		{
+			$fotos = explode(",", $articolo->foto);
+			fwrite($file, "<item>\n");
+			fwrite($file, "<title>$articolo->titolo</title>\n");
+			$link = str_replace(" ", "_", $articolo->titolo);
+			fwrite($file, "<link>http://tecmar.altervista.org/nostri_articoli/$link</link>\n");
+			fwrite($file, "<guid>http://tecmar.altervista.org/nostri_articoli/$link</guid>\n");
+			foreach($fotos as $foto){
+				fwrite($file, "<link><content:encoded><![CDATA[<p><img src=\"/app/views/uploads/".$foto."\" alt=\"".$foto."\"></p>]]></content:encoded></link>\n");
+			}
+			fwrite($file, "<pubDate>$articolo->created_at</pubDate>\n");
+			fwrite($file, "<description>".substr($articolo->testo, 100)."</description>\n");
+			fwrite($file, "</item>\n");
+			
+		}
+		fwrite($file, "</channel>\n");
+		fwrite($file, "</rss>\n");
+		fclose($file);
+	?>
+  
+  </div>
+  
+  
+   	
+   
+   </div>
+   
+  <?php echo $__env->make('footer', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>  
+  
+   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="//code.jquery.com/jquery.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApcStore.php" server="ftp.tecmar.altervista.org" local="131621265169989236" remote="131614695600000000" Dst="1" />
+<file name="ApcWrapper.php" server="ftp.tecmar.altervista.org" local="131621265171551833" remote="131614695600000000" Dst="1" />
+<file name="ArrayStore.php" server="ftp.tecmar.altervista.org" local="131621265173270666" remote="131614695600000000" Dst="1" />
+<file name="CacheManager.php" server="ftp.tecmar.altervista.org" local="131621265174208197" remote="131614695600000000" Dst="1" />
+<file name="CacheServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265175458264" remote="131614695600000000" Dst="1" />
+<file name="DatabaseStore.php" server="ftp.tecmar.altervista.org" local="131621265180927251" remote="131614695600000000" Dst="1" />
+<file name="FileStore.php" server="ftp.tecmar.altervista.org" local="131621265182177314" remote="131614695600000000" Dst="1" />
+<file name="MemcachedStore.php" server="ftp.tecmar.altervista.org" local="131621265184521180" remote="131614695600000000" Dst="1" />
+<file name="MemcachedConnector.php" server="ftp.tecmar.altervista.org" local="131621265184989950" remote="131614695600000000" Dst="1" />
+<file name="NullStore.php" server="ftp.tecmar.altervista.org" local="131621265186396268" remote="131614695600000000" Dst="1" />
+<file name="RedisStore.php" server="ftp.tecmar.altervista.org" local="131621265188897481" remote="131614695600000000" Dst="1" />
+<file name="RedisTaggedCache.php" server="ftp.tecmar.altervista.org" local="131621265188897481" remote="131614695600000000" Dst="1" />
+<file name="Repository.php" server="ftp.tecmar.altervista.org" local="131621265190616309" remote="131614695600000000" Dst="1" />
+<file name="StoreInterface.php" server="ftp.tecmar.altervista.org" local="131621265192647644" remote="131614695600000000" Dst="1" />
+<file name="TagSet.php" server="ftp.tecmar.altervista.org" local="131621265193428937" remote="131614695600000000" Dst="1" />
+<file name="TaggableStore.php" server="ftp.tecmar.altervista.org" local="131621265194991502" remote="131614695600000000" Dst="1" />
+<file name="TaggedCache.php" server="ftp.tecmar.altervista.org" local="131621265196710334" remote="131614695600000000" Dst="1" />
+<file name="WinCacheStore.php" server="ftp.tecmar.altervista.org" local="131621265197647886" remote="131614695600000000" Dst="1" />
+<file name="XCacheStore.php" server="ftp.tecmar.altervista.org" local="131621265199210459" remote="131614695600000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621265201241798" remote="131614695600000000" Dst="1" />
+<file name="ApcStore.php" server="ftp.webmhole.altervista.org" local="131621265169989236" remote="131622309000000000" Dst="1" />
+<file name="ApcWrapper.php" server="ftp.webmhole.altervista.org" local="131621265171551833" remote="131622309000000000" Dst="1" />
+<file name="ArrayStore.php" server="ftp.webmhole.altervista.org" local="131621265173270666" remote="131622309000000000" Dst="1" />
+<file name="CacheServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265175458264" remote="131622309000000000" Dst="1" />
+<file name="CacheManager.php" server="ftp.webmhole.altervista.org" local="131621265174208197" remote="131622309000000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621265201241798" remote="131622309000000000" Dst="1" />
+<file name="FileStore.php" server="ftp.webmhole.altervista.org" local="131621265182177314" remote="131622309000000000" Dst="1" />
+<file name="DatabaseStore.php" server="ftp.webmhole.altervista.org" local="131621265180927251" remote="131622309000000000" Dst="1" />
+<file name="MemcachedConnector.php" server="ftp.webmhole.altervista.org" local="131621265184989950" remote="131622309000000000" Dst="1" />
+<file name="MemcachedStore.php" server="ftp.webmhole.altervista.org" local="131621265184521180" remote="131622309000000000" Dst="1" />
+<file name="NullStore.php" server="ftp.webmhole.altervista.org" local="131621265186396268" remote="131622309000000000" Dst="1" />
+<file name="RedisStore.php" server="ftp.webmhole.altervista.org" local="131621265188897481" remote="131622309000000000" Dst="1" />
+<file name="Repository.php" server="ftp.webmhole.altervista.org" local="131621265190616309" remote="131622309000000000" Dst="1" />
+<file name="StoreInterface.php" server="ftp.webmhole.altervista.org" local="131621265192647644" remote="131622309000000000" Dst="1" />
+<file name="RedisTaggedCache.php" server="ftp.webmhole.altervista.org" local="131621265188897481" remote="131622309000000000" Dst="1" />
+<file name="TaggableStore.php" server="ftp.webmhole.altervista.org" local="131621265194991502" remote="131622309000000000" Dst="1" />
+<file name="TaggedCache.php" server="ftp.webmhole.altervista.org" local="131621265196710334" remote="131622309000000000" Dst="1" />
+<file name="TagSet.php" server="ftp.webmhole.altervista.org" local="131621265193428937" remote="131622309000000000" Dst="1" />
+<file name="WinCacheStore.php" server="ftp.webmhole.altervista.org" local="131621265197647886" remote="131622309000000000" Dst="1" />
+<file name="XCacheStore.php" server="ftp.webmhole.altervista.org" local="131621265199210459" remote="131622309000000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandsServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265613811524" remote="131614696200000000" Dst="1" />
+<file name="CacheBasedSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621265613811524" remote="131614696200000000" Dst="1" />
+<file name="CookieSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621265617717959" remote="131614696200000000" Dst="1" />
+<file name="FileSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621265622561967" remote="131614696200000000" Dst="1" />
+<file name="ExistenceAwareInterface.php" server="ftp.tecmar.altervista.org" local="131621265623186959" remote="131614696200000000" Dst="1" />
+<file name="DatabaseSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621265623186959" remote="131614696200000000" Dst="1" />
+<file name="Middleware.php" server="ftp.tecmar.altervista.org" local="131621265627249666" remote="131614696200000000" Dst="1" />
+<file name="SessionInterface.php" server="ftp.tecmar.altervista.org" local="131621265628187205" remote="131614696200000000" Dst="1" />
+<file name="SessionManager.php" server="ftp.tecmar.altervista.org" local="131621265628187205" remote="131614696200000000" Dst="1" />
+<file name="SessionServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265631156084" remote="131614696200000000" Dst="1" />
+<file name="TokenMismatchException.php" server="ftp.tecmar.altervista.org" local="131621265632874990" remote="131614696200000000" Dst="1" />
+<file name="Store.php" server="ftp.tecmar.altervista.org" local="131621265632874990" remote="131614696200000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621265636000071" remote="131614696200000000" Dst="1" />
+<file name="CacheBasedSessionHandler.php" server="ftp.webmhole.altervista.org" local="131621265613811524" remote="131622311400000000" Dst="1" />
+<file name="CommandsServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265613811524" remote="131622311400000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621265636000071" remote="131622311400000000" Dst="1" />
+<file name="CookieSessionHandler.php" server="ftp.webmhole.altervista.org" local="131621265617717959" remote="131622311400000000" Dst="1" />
+<file name="ExistenceAwareInterface.php" server="ftp.webmhole.altervista.org" local="131621265623186959" remote="131622311400000000" Dst="1" />
+<file name="DatabaseSessionHandler.php" server="ftp.webmhole.altervista.org" local="131621265623186959" remote="131622311400000000" Dst="1" />
+<file name="FileSessionHandler.php" server="ftp.webmhole.altervista.org" local="131621265622561967" remote="131622311400000000" Dst="1" />
+<file name="Middleware.php" server="ftp.webmhole.altervista.org" local="131621265627249666" remote="131622311400000000" Dst="1" />
+<file name="SessionInterface.php" server="ftp.webmhole.altervista.org" local="131621265628187205" remote="131622311400000000" Dst="1" />
+<file name="SessionManager.php" server="ftp.webmhole.altervista.org" local="131621265628187205" remote="131622311400000000" Dst="1" />
+<file name="Store.php" server="ftp.webmhole.altervista.org" local="131621265632874990" remote="131622311400000000" Dst="1" />
+<file name="TokenMismatchException.php" server="ftp.webmhole.altervista.org" local="131621265632874990" remote="131622312000000000" Dst="1" />
+<file name="SessionServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265631156084" remote="131622312000000000" Dst="1" />
+</dwsync>

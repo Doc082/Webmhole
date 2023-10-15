@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BCryptPasswordEncoder.php" server="ftp.tecmar.altervista.org" local="131621269852046278" remote="131615253600000000" Dst="1" />
+<file name="BasePasswordEncoder.php" server="ftp.tecmar.altervista.org" local="131621269853296320" remote="131615253600000000" Dst="1" />
+<file name="EncoderAwareInterface.php" server="ftp.tecmar.altervista.org" local="131621269855015206" remote="131615253600000000" Dst="1" />
+<file name="EncoderFactory.php" server="ftp.tecmar.altervista.org" local="131621269857827780" remote="131615253600000000" Dst="1" />
+<file name="EncoderFactoryInterface.php" server="ftp.tecmar.altervista.org" local="131621269859702876" remote="131615253600000000" Dst="1" />
+<file name="MessageDigestPasswordEncoder.php" server="ftp.tecmar.altervista.org" local="131621269861734219" remote="131615253600000000" Dst="1" />
+<file name="PasswordEncoderInterface.php" server="ftp.tecmar.altervista.org" local="131621269861734219" remote="131615253600000000" Dst="1" />
+<file name="Pbkdf2PasswordEncoder.php" server="ftp.tecmar.altervista.org" local="131621269864234327" remote="131615253600000000" Dst="1" />
+<file name="PlaintextPasswordEncoder.php" server="ftp.tecmar.altervista.org" local="131621269865640658" remote="131615253600000000" Dst="1" />
+<file name="UserPasswordEncoder.php" server="ftp.tecmar.altervista.org" local="131621269865953185" remote="131615253600000000" Dst="1" />
+<file name="UserPasswordEncoderInterface.php" server="ftp.tecmar.altervista.org" local="131621269868140762" remote="131615253600000000" Dst="1" />
+</dwsync>

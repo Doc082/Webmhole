@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpEventSupportTest.php" server="ftp.tecmar.altervista.org" local="131621268159981887" remote="131615251200000000" Dst="1" />
+<file name="AbstractSmtpTest.php" server="ftp.tecmar.altervista.org" local="131621268161700724" remote="131615251200000000" Dst="1" />
+<file name="EsmtpTransportTest.php" server="ftp.tecmar.altervista.org" local="131621268171077259" remote="131615251200000000" Dst="1" />
+<file name="FailoverTransportTest.php" server="ftp.tecmar.altervista.org" local="131621268172796099" remote="131615251200000000" Dst="1" />
+<file name="MailTransportTest.php" server="ftp.tecmar.altervista.org" local="131621268175452463" remote="131615251200000000" Dst="1" />
+<file name="LoadBalancedTransportTest.php" server="ftp.tecmar.altervista.org" local="131621268175764990" remote="131615251200000000" Dst="1" />
+<file name="SendmailTransportTest.php" server="ftp.tecmar.altervista.org" local="131621268176702526" remote="131615251200000000" Dst="1" />
+<file name="StreamBufferTest.php" server="ftp.tecmar.altervista.org" local="131621268179515166" remote="131615251200000000" Dst="1" />
+</dwsync>

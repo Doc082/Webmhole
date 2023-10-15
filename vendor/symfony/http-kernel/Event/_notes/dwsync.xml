@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FilterControllerEvent.php" server="ftp.tecmar.altervista.org" local="131621269272302673" remote="131615253000000000" Dst="1" />
+<file name="FilterResponseEvent.php" server="ftp.tecmar.altervista.org" local="131621269273083982" remote="131615253000000000" Dst="1" />
+<file name="FinishRequestEvent.php" server="ftp.tecmar.altervista.org" local="131621269275115387" remote="131615253000000000" Dst="1" />
+<file name="GetResponseEvent.php" server="ftp.tecmar.altervista.org" local="131621269276677890" remote="131615253000000000" Dst="1" />
+<file name="GetResponseForControllerResultEvent.php" server="ftp.tecmar.altervista.org" local="131621269278709237" remote="131615253000000000" Dst="1" />
+<file name="GetResponseForExceptionEvent.php" server="ftp.tecmar.altervista.org" local="131621269279959287" remote="131615253000000000" Dst="1" />
+<file name="KernelEvent.php" server="ftp.tecmar.altervista.org" local="131621269281835619" remote="131615253000000000" Dst="1" />
+<file name="PostResponseEvent.php" server="ftp.tecmar.altervista.org" local="131621269282773163" remote="131615253000000000" Dst="1" />
+</dwsync>

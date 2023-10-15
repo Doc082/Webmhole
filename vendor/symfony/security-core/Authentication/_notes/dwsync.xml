@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthenticationManagerInterface.php" server="ftp.tecmar.altervista.org" local="131621269790163636" remote="131615253600000000" Dst="1" />
+<file name="AuthenticationProviderManager.php" server="ftp.tecmar.altervista.org" local="131621269792822825" remote="131615253600000000" Dst="1" />
+<file name="AuthenticationTrustResolver.php" server="ftp.tecmar.altervista.org" local="131621269794697908" remote="131615253600000000" Dst="1" />
+<file name="AuthenticationTrustResolverInterface.php" server="ftp.tecmar.altervista.org" local="131621269794697908" remote="131615253600000000" Dst="1" />
+<file name="SimpleAuthenticatorInterface.php" server="ftp.tecmar.altervista.org" local="131621269814698848" remote="131615253600000000" Dst="1" />
+<file name="SimpleFormAuthenticatorInterface.php" server="ftp.tecmar.altervista.org" local="131621269818761534" remote="131615253600000000" Dst="1" />
+<file name="SimplePreAuthenticatorInterface.php" server="ftp.tecmar.altervista.org" local="131621269818761534" remote="131615253600000000" Dst="1" />
+</dwsync>

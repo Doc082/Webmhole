@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CallbackHandler.php" server="ftp.tecmar.altervista.org" local="131621265057635217" remote="131614695600000000" Dst="1" />
+<file name="Handler.php" server="ftp.tecmar.altervista.org" local="131621265059197819" remote="131614695600000000" Dst="1" />
+<file name="HandlerInterface.php" server="ftp.tecmar.altervista.org" local="131621265061072874" remote="131614695600000000" Dst="1" />
+<file name="JsonResponseHandler.php" server="ftp.tecmar.altervista.org" local="131621265063104221" remote="131614695600000000" Dst="1" />
+<file name="PlainTextHandler.php" server="ftp.tecmar.altervista.org" local="131621265063416736" remote="131614695600000000" Dst="1" />
+<file name="PrettyPageHandler.php" server="ftp.tecmar.altervista.org" local="131621265066229376" remote="131614695600000000" Dst="1" />
+<file name="SoapResponseHandler.php" server="ftp.tecmar.altervista.org" local="131621265067166911" remote="131614695600000000" Dst="1" />
+<file name="XmlResponseHandler.php" server="ftp.tecmar.altervista.org" local="131621265067323179" remote="131614695600000000" Dst="1" />
+<file name="CallbackHandler.php" server="ftp.webmhole.altervista.org" local="131621265057635217" remote="131622307800000000" Dst="1" />
+<file name="HandlerInterface.php" server="ftp.webmhole.altervista.org" local="131621265061072874" remote="131622307800000000" Dst="1" />
+<file name="JsonResponseHandler.php" server="ftp.webmhole.altervista.org" local="131621265063104221" remote="131622307800000000" Dst="1" />
+<file name="PlainTextHandler.php" server="ftp.webmhole.altervista.org" local="131621265063416736" remote="131622307800000000" Dst="1" />
+<file name="PrettyPageHandler.php" server="ftp.webmhole.altervista.org" local="131621265066229376" remote="131622307800000000" Dst="1" />
+<file name="SoapResponseHandler.php" server="ftp.webmhole.altervista.org" local="131621265067166911" remote="131622307800000000" Dst="1" />
+<file name="XmlResponseHandler.php" server="ftp.webmhole.altervista.org" local="131621265067323179" remote="131622307800000000" Dst="1" />
+<file name="Handler.php" server="ftp.webmhole.altervista.org" local="131621265059197819" remote="131622308400000000" Dst="1" />
+</dwsync>

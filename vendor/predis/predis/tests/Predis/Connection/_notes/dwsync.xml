@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ComposableStreamConnectionTest.php" server="ftp.tecmar.altervista.org" local="131621267555874306" remote="131614698600000000" Dst="1" />
+<file name="ConnectionExceptionTest.php" server="ftp.tecmar.altervista.org" local="131621267556968109" remote="131614698600000000" Dst="1" />
+<file name="ConnectionFactoryTest.php" server="ftp.tecmar.altervista.org" local="131621267558999460" remote="131614698600000000" Dst="1" />
+<file name="ConnectionParametersTest.php" server="ftp.tecmar.altervista.org" local="131621267560718313" remote="131614698600000000" Dst="1" />
+<file name="MasterSlaveReplicationTest.php" server="ftp.tecmar.altervista.org" local="131621267561655828" remote="131614698600000000" Dst="1" />
+<file name="PhpiredisConnectionTest.php" server="ftp.tecmar.altervista.org" local="131621267563374653" remote="131614698600000000" Dst="1" />
+<file name="PhpiredisStreamConnectionTest.php" server="ftp.tecmar.altervista.org" local="131621267564937230" remote="131614698600000000" Dst="1" />
+<file name="PredisClusterTest.php" server="ftp.tecmar.altervista.org" local="131621267566343544" remote="131614698600000000" Dst="1" />
+<file name="RedisClusterTest.php" server="ftp.tecmar.altervista.org" local="131621267568531146" remote="131614698600000000" Dst="1" />
+<file name="StreamConnectionTest.php" server="ftp.tecmar.altervista.org" local="131621267569624945" remote="131614698600000000" Dst="1" />
+<file name="WebdisConnectionTest.php" server="ftp.tecmar.altervista.org" local="131621267570249983" remote="131614698600000000" Dst="1" />
+</dwsync>

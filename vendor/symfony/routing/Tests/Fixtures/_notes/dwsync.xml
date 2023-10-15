@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomXmlFileLoader.php" server="ftp.tecmar.altervista.org" local="131621269691780128" remote="131615253600000000" Dst="1" />
+<file name="RedirectableUrlMatcher.php" server="ftp.tecmar.altervista.org" local="131621269693342718" remote="131615253600000000" Dst="1" />
+<file name="annotated.php" server="ftp.tecmar.altervista.org" local="131621269692092663" remote="131614702800000000" Dst="1" />
+<file name="bad_format.yml" server="ftp.tecmar.altervista.org" local="131621269698342939" remote="131615253600000000" Dst="1" />
+<file name="bar.xml" server="ftp.tecmar.altervista.org" local="131621269693811463" remote="131614702800000000" Dst="1" />
+<file name="empty.yml" server="ftp.tecmar.altervista.org" local="131621269708030880" remote="131614702800000000" Dst="1" />
+<file name="foo.xml" server="ftp.tecmar.altervista.org" local="131621269708968445" remote="131614702800000000" Dst="1" />
+<file name="incomplete.yml" server="ftp.tecmar.altervista.org" local="131621269715374972" remote="131615253600000000" Dst="1" />
+<file name="foo1.xml" server="ftp.tecmar.altervista.org" local="131621269711468574" remote="131614702800000000" Dst="1" />
+<file name="legacy_validpattern.xml" server="ftp.tecmar.altervista.org" local="131621269716937545" remote="131615253600000000" Dst="1" />
+<file name="legacy_validpattern.yml" server="ftp.tecmar.altervista.org" local="131621269719593942" remote="131615253600000000" Dst="1" />
+<file name="missing_id.xml" server="ftp.tecmar.altervista.org" local="131621269720062704" remote="131615253600000000" Dst="1" />
+<file name="missing_path.xml" server="ftp.tecmar.altervista.org" local="131621269720218955" remote="131615253600000000" Dst="1" />
+<file name="namespaceprefix.xml" server="ftp.tecmar.altervista.org" local="131621269723345994" remote="131615253600000000" Dst="1" />
+<file name="nonesense_type_without_resource.yml" server="ftp.tecmar.altervista.org" local="131621269723658484" remote="131615253600000000" Dst="1" />
+<file name="nonesense_resource_plus_path.yml" server="ftp.tecmar.altervista.org" local="131621269723971011" remote="131615253600000000" Dst="1" />
+<file name="nonvalid.yml" server="ftp.tecmar.altervista.org" local="131621269728346211" remote="131615253600000000" Dst="1" />
+<file name="nonvalid2.yml" server="ftp.tecmar.altervista.org" local="131621269728502553" remote="131615253600000000" Dst="1" />
+<file name="nonvalid.xml" server="ftp.tecmar.altervista.org" local="131621269728502553" remote="131615253600000000" Dst="1" />
+<file name="nonvalidkeys.yml" server="ftp.tecmar.altervista.org" local="131621269731824042" remote="131615253600000000" Dst="1" />
+<file name="nonvalidnode.xml" server="ftp.tecmar.altervista.org" local="131621269732015451" remote="131615253600000000" Dst="1" />
+<file name="nonvalidroute.xml" server="ftp.tecmar.altervista.org" local="131621269732363090" remote="131615253600000000" Dst="1" />
+<file name="null_values.xml" server="ftp.tecmar.altervista.org" local="131621269735159486" remote="131615253600000000" Dst="1" />
+<file name="special_route_name.yml" server="ftp.tecmar.altervista.org" local="131621269735940782" remote="131615253600000000" Dst="1" />
+<file name="validpattern.php" server="ftp.tecmar.altervista.org" local="131621269737190825" remote="131615253600000000" Dst="1" />
+<file name="validpattern.xml" server="ftp.tecmar.altervista.org" local="131621269738597134" remote="131615253600000000" Dst="1" />
+<file name="validpattern.yml" server="ftp.tecmar.altervista.org" local="131621269739847185" remote="131615253600000000" Dst="1" />
+<file name="validresource.php" server="ftp.tecmar.altervista.org" local="131621269743128586" remote="131615253600000000" Dst="1" />
+<file name="validresource.xml" server="ftp.tecmar.altervista.org" local="131621269743128586" remote="131615253600000000" Dst="1" />
+<file name="validresource.yml" server="ftp.tecmar.altervista.org" local="131621269745941234" remote="131615253600000000" Dst="1" />
+<file name="withdoctype.xml" server="ftp.tecmar.altervista.org" local="131621269747660058" remote="131615253600000000" Dst="1" />
+<file name="with_define_path_variable.php" server="ftp.tecmar.altervista.org" local="131621269747660058" remote="131615253600000000" Dst="1" />
+<file name="annotated.php" server="ftp.webmhole.altervista.org" local="131621269692092663" remote="131622331800000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BeanstalkdQueue.php" server="ftp.tecmar.altervista.org" local="131621265498487080" remote="131614695600000000" Dst="1" />
+<file name="FailConsoleServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265523957787" remote="131614695600000000" Dst="1" />
+<file name="IlluminateQueueClosure.php" server="ftp.tecmar.altervista.org" local="131621265528020478" remote="131614695600000000" Dst="1" />
+<file name="IronQueue.php" server="ftp.tecmar.altervista.org" local="131621265530833121" remote="131614695600000000" Dst="1" />
+<file name="Listener.php" server="ftp.tecmar.altervista.org" local="131621265538804636" remote="131614695600000000" Dst="1" />
+<file name="Queue.php" server="ftp.tecmar.altervista.org" local="131621265540836007" remote="131614695600000000" Dst="1" />
+<file name="QueueInterface.php" server="ftp.tecmar.altervista.org" local="131621265542242313" remote="131614695600000000" Dst="1" />
+<file name="QueueManager.php" server="ftp.tecmar.altervista.org" local="131621265543179849" remote="131614695600000000" Dst="1" />
+<file name="QueueServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265545211196" remote="131614695600000000" Dst="1" />
+<file name="README.md" server="ftp.tecmar.altervista.org" local="131621265547086279" remote="131614695600000000" Dst="1" />
+<file name="RedisQueue.php" server="ftp.tecmar.altervista.org" local="131621265547555041" remote="131614695600000000" Dst="1" />
+<file name="SqsQueue.php" server="ftp.tecmar.altervista.org" local="131621265549430129" remote="131614695600000000" Dst="1" />
+<file name="SyncQueue.php" server="ftp.tecmar.altervista.org" local="131621265552086509" remote="131614695600000000" Dst="1" />
+<file name="Worker.php" server="ftp.tecmar.altervista.org" local="131621265552242769" remote="131614695600000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621265554899145" remote="131614695600000000" Dst="1" />
+<file name="BeanstalkdQueue.php" server="ftp.webmhole.altervista.org" local="131621265498487080" remote="131622310800000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621265554899145" remote="131622310800000000" Dst="1" />
+<file name="FailConsoleServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265523957787" remote="131622311400000000" Dst="1" />
+<file name="IlluminateQueueClosure.php" server="ftp.webmhole.altervista.org" local="131621265528020478" remote="131622311400000000" Dst="1" />
+<file name="IronQueue.php" server="ftp.webmhole.altervista.org" local="131621265530833121" remote="131622311400000000" Dst="1" />
+<file name="Listener.php" server="ftp.webmhole.altervista.org" local="131621265538804636" remote="131622311400000000" Dst="1" />
+<file name="Queue.php" server="ftp.webmhole.altervista.org" local="131621265540836007" remote="131622311400000000" Dst="1" />
+<file name="QueueInterface.php" server="ftp.webmhole.altervista.org" local="131621265542242313" remote="131622311400000000" Dst="1" />
+<file name="QueueManager.php" server="ftp.webmhole.altervista.org" local="131621265543179849" remote="131622311400000000" Dst="1" />
+<file name="QueueServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265545211196" remote="131622311400000000" Dst="1" />
+<file name="README.md" server="ftp.webmhole.altervista.org" local="131621265547086279" remote="131622311400000000" Dst="1" />
+<file name="SqsQueue.php" server="ftp.webmhole.altervista.org" local="131621265549430129" remote="131622311400000000" Dst="1" />
+<file name="RedisQueue.php" server="ftp.webmhole.altervista.org" local="131621265547555041" remote="131622311400000000" Dst="1" />
+<file name="Worker.php" server="ftp.webmhole.altervista.org" local="131621265552242769" remote="131622311400000000" Dst="1" />
+<file name="SyncQueue.php" server="ftp.webmhole.altervista.org" local="131621265552086509" remote="131622311400000000" Dst="1" />
+</dwsync>

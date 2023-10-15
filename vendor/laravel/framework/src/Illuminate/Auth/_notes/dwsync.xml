@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthManager.php" server="ftp.tecmar.altervista.org" local="131621265137016646" remote="131614695600000000" Dst="1" />
+<file name="AuthServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265138736903" remote="131614695600000000" Dst="1" />
+<file name="DatabaseUserProvider.php" server="ftp.tecmar.altervista.org" local="131621265146706028" remote="131614695600000000" Dst="1" />
+<file name="EloquentUserProvider.php" server="ftp.tecmar.altervista.org" local="131621265149362416" remote="131614695600000000" Dst="1" />
+<file name="GenericUser.php" server="ftp.tecmar.altervista.org" local="131621265150768726" remote="131614695600000000" Dst="1" />
+<file name="Guard.php" server="ftp.tecmar.altervista.org" local="131621265152331299" remote="131614695600000000" Dst="1" />
+<file name="UserInterface.php" server="ftp.tecmar.altervista.org" local="131621265163738081" remote="131614695600000000" Dst="1" />
+<file name="UserProviderInterface.php" server="ftp.tecmar.altervista.org" local="131621265165613160" remote="131614695600000000" Dst="1" />
+<file name="UserTrait.php" server="ftp.tecmar.altervista.org" local="131621265167332001" remote="131614695600000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621265168582926" remote="131614695600000000" Dst="1" />
+<file name="AuthManager.php" server="ftp.webmhole.altervista.org" local="131621265137016646" remote="131622309000000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621265168582926" remote="131622309000000000" Dst="1" />
+<file name="AuthServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265138736903" remote="131622309000000000" Dst="1" />
+<file name="GenericUser.php" server="ftp.webmhole.altervista.org" local="131621265150768726" remote="131622309000000000" Dst="1" />
+<file name="DatabaseUserProvider.php" server="ftp.webmhole.altervista.org" local="131621265146706028" remote="131622309000000000" Dst="1" />
+<file name="EloquentUserProvider.php" server="ftp.webmhole.altervista.org" local="131621265149362416" remote="131622309000000000" Dst="1" />
+<file name="Guard.php" server="ftp.webmhole.altervista.org" local="131621265152331299" remote="131622309000000000" Dst="1" />
+<file name="UserInterface.php" server="ftp.webmhole.altervista.org" local="131621265163738081" remote="131622309000000000" Dst="1" />
+<file name="UserProviderInterface.php" server="ftp.webmhole.altervista.org" local="131621265165613160" remote="131622309000000000" Dst="1" />
+<file name="UserTrait.php" server="ftp.webmhole.altervista.org" local="131621265167332001" remote="131622309000000000" Dst="1" />
+</dwsync>

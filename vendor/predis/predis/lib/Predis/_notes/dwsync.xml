@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="ftp.tecmar.altervista.org" local="131621266932850819" remote="131614698000000000" Dst="1" />
+<file name="BasicClientInterface.php" server="ftp.tecmar.altervista.org" local="131621266935975932" remote="131614698000000000" Dst="1" />
+<file name="Client.php" server="ftp.tecmar.altervista.org" local="131621266936600957" remote="131614698000000000" Dst="1" />
+<file name="ClientException.php" server="ftp.tecmar.altervista.org" local="131621266936757212" remote="131614698000000000" Dst="1" />
+<file name="ClientInterface.php" server="ftp.tecmar.altervista.org" local="131621266940508201" remote="131614698000000000" Dst="1" />
+<file name="CommunicationException.php" server="ftp.tecmar.altervista.org" local="131621267179876176" remote="131614698600000000" Dst="1" />
+<file name="ExecutableContextInterface.php" server="ftp.tecmar.altervista.org" local="131621267209881505" remote="131614698600000000" Dst="1" />
+<file name="Helpers.php" server="ftp.tecmar.altervista.org" local="131621267212537877" remote="131614698600000000" Dst="1" />
+<file name="NotSupportedException.php" server="ftp.tecmar.altervista.org" local="131621267218006885" remote="131614698600000000" Dst="1" />
+<file name="PredisException.php" server="ftp.tecmar.altervista.org" local="131621267245352639" remote="131614698600000000" Dst="1" />
+<file name="ResponseError.php" server="ftp.tecmar.altervista.org" local="131621267289975503" remote="131614698600000000" Dst="1" />
+<file name="ResponseErrorInterface.php" server="ftp.tecmar.altervista.org" local="131621267290913039" remote="131614698600000000" Dst="1" />
+<file name="ResponseObjectInterface.php" server="ftp.tecmar.altervista.org" local="131621267292475612" remote="131614698600000000" Dst="1" />
+<file name="ResponseQueued.php" server="ftp.tecmar.altervista.org" local="131621267294350692" remote="131614698600000000" Dst="1" />
+<file name="ServerException.php" server="ftp.tecmar.altervista.org" local="131621267294975729" remote="131614698600000000" Dst="1" />
+</dwsync>

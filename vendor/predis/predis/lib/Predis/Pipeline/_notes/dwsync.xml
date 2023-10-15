@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FireAndForgetExecutor.php" server="ftp.tecmar.altervista.org" local="131621267235195895" remote="131614698600000000" Dst="1" />
+<file name="MultiExecExecutor.php" server="ftp.tecmar.altervista.org" local="131621267237070983" remote="131614698600000000" Dst="1" />
+<file name="PipelineContext.php" server="ftp.tecmar.altervista.org" local="131621267238789812" remote="131614698600000000" Dst="1" />
+<file name="PipelineExecutorInterface.php" server="ftp.tecmar.altervista.org" local="131621267239727368" remote="131614698600000000" Dst="1" />
+<file name="SafeClusterExecutor.php" server="ftp.tecmar.altervista.org" local="131621267241133669" remote="131614698600000000" Dst="1" />
+<file name="SafeExecutor.php" server="ftp.tecmar.altervista.org" local="131621267243008769" remote="131614698600000000" Dst="1" />
+<file name="StandardExecutor.php" server="ftp.tecmar.altervista.org" local="131621267243790041" remote="131614698600000000" Dst="1" />
+</dwsync>

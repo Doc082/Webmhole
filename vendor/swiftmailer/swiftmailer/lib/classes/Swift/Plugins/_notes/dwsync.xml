@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AntiFloodPlugin.php" server="ftp.tecmar.altervista.org" local="131621267856165263" remote="131615250600000000" Dst="1" />
+<file name="BandwidthMonitorPlugin.php" server="ftp.tecmar.altervista.org" local="131621267858040331" remote="131615250600000000" Dst="1" />
+<file name="DecoratorPlugin.php" server="ftp.tecmar.altervista.org" local="131621267860544216" remote="131615250600000000" Dst="1" />
+<file name="ImpersonatePlugin.php" server="ftp.tecmar.altervista.org" local="131621267861950526" remote="131615250600000000" Dst="1" />
+<file name="Logger.php" server="ftp.tecmar.altervista.org" local="131621267862888070" remote="131615250600000000" Dst="1" />
+<file name="LoggerPlugin.php" server="ftp.tecmar.altervista.org" local="131621267864606906" remote="131615250600000000" Dst="1" />
+<file name="MessageLogger.php" server="ftp.tecmar.altervista.org" local="131621267868659128" remote="131615250600000000" Dst="1" />
+<file name="PopBeforeSmtpPlugin.php" server="ftp.tecmar.altervista.org" local="131621267873140011" remote="131615250600000000" Dst="1" />
+<file name="RedirectingPlugin.php" server="ftp.tecmar.altervista.org" local="131621267873921304" remote="131615250600000000" Dst="1" />
+<file name="Reporter.php" server="ftp.tecmar.altervista.org" local="131621267874233802" remote="131615250600000000" Dst="1" />
+<file name="ReporterPlugin.php" server="ftp.tecmar.altervista.org" local="131621267877046442" remote="131615250600000000" Dst="1" />
+<file name="Sleeper.php" server="ftp.tecmar.altervista.org" local="131621267880796765" remote="131615250600000000" Dst="1" />
+<file name="ThrottlerPlugin.php" server="ftp.tecmar.altervista.org" local="131621267881890429" remote="131615250600000000" Dst="1" />
+<file name="Timer.php" server="ftp.tecmar.altervista.org" local="131621267882202931" remote="131615250600000000" Dst="1" />
+</dwsync>

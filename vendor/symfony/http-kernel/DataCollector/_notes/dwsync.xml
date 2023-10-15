@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269238703174" remote="131615252400000000" Dst="1" />
+<file name="DataCollector.php" server="ftp.tecmar.altervista.org" local="131621269239015688" remote="131615252400000000" Dst="1" />
+<file name="DataCollectorInterface.php" server="ftp.tecmar.altervista.org" local="131621269240422018" remote="131615252400000000" Dst="1" />
+<file name="EventDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269242922135" remote="131615252400000000" Dst="1" />
+<file name="DumpDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269243078383" remote="131615252400000000" Dst="1" />
+<file name="ExceptionDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269244797203" remote="131615252400000000" Dst="1" />
+<file name="LateDataCollectorInterface.php" server="ftp.tecmar.altervista.org" local="131621269246672290" remote="131615252400000000" Dst="1" />
+<file name="LoggerDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269247141081" remote="131615252400000000" Dst="1" />
+<file name="MemoryDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269248703629" remote="131615252400000000" Dst="1" />
+<file name="RouterDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269251047495" remote="131615252400000000" Dst="1" />
+<file name="RequestDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269251360022" remote="131615252400000000" Dst="1" />
+<file name="TimeDataCollector.php" server="ftp.tecmar.altervista.org" local="131621269252766332" remote="131615252400000000" Dst="1" />
+</dwsync>

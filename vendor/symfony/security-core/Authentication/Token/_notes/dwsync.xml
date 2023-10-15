@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractToken.php" server="ftp.tecmar.altervista.org" local="131621269820324132" remote="131615253600000000" Dst="1" />
+<file name="AnonymousToken.php" server="ftp.tecmar.altervista.org" local="131621269822512880" remote="131615253600000000" Dst="1" />
+<file name="PreAuthenticatedToken.php" server="ftp.tecmar.altervista.org" local="131621269822825234" remote="131615253600000000" Dst="1" />
+<file name="RememberMeToken.php" server="ftp.tecmar.altervista.org" local="131621269824387812" remote="131615253600000000" Dst="1" />
+<file name="TokenInterface.php" server="ftp.tecmar.altervista.org" local="131621269828606786" remote="131615253600000000" Dst="1" />
+<file name="UsernamePasswordToken.php" server="ftp.tecmar.altervista.org" local="131621269830638088" remote="131615253600000000" Dst="1" />
+</dwsync>

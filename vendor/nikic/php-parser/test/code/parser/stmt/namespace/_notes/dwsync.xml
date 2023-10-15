@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="alias.test" server="ftp.tecmar.altervista.org" local="131621266501684212" remote="131614696800000000" Dst="1" />
+<file name="braced.test" server="ftp.tecmar.altervista.org" local="131621266501996751" remote="131614696800000000" Dst="1" />
+<file name="mix.test-fail" server="ftp.tecmar.altervista.org" local="131621266502309336" remote="131614696800000000" Dst="1" />
+<file name="name.test-fail" server="ftp.tecmar.altervista.org" local="131621266505590647" remote="131614696800000000" Dst="1" />
+<file name="name.test" server="ftp.tecmar.altervista.org" local="131621266505590647" remote="131614696800000000" Dst="1" />
+<file name="nested.test-fail" server="ftp.tecmar.altervista.org" local="131621266506371944" remote="131614696800000000" Dst="1" />
+<file name="notBraced.test" server="ftp.tecmar.altervista.org" local="131621266509028304" remote="131614696800000000" Dst="1" />
+<file name="outsideStmt.test" server="ftp.tecmar.altervista.org" local="131621266509340835" remote="131614696800000000" Dst="1" />
+<file name="outsideStmt.test-fail" server="ftp.tecmar.altervista.org" local="131621266510278362" remote="131614696800000000" Dst="1" />
+<file name="alias.test" server="ftp.webmhole.altervista.org" local="131621266501684212" remote="131622314400000000" Dst="1" />
+<file name="braced.test" server="ftp.webmhole.altervista.org" local="131621266501996751" remote="131622314400000000" Dst="1" />
+<file name="mix.test-fail" server="ftp.webmhole.altervista.org" local="131621266502309336" remote="131622314400000000" Dst="1" />
+<file name="name.test" server="ftp.webmhole.altervista.org" local="131621266505590647" remote="131622314400000000" Dst="1" />
+<file name="name.test-fail" server="ftp.webmhole.altervista.org" local="131621266505590647" remote="131622314400000000" Dst="1" />
+<file name="nested.test-fail" server="ftp.webmhole.altervista.org" local="131621266506371944" remote="131622314400000000" Dst="1" />
+<file name="notBraced.test" server="ftp.webmhole.altervista.org" local="131621266509028304" remote="131622314400000000" Dst="1" />
+<file name="outsideStmt.test-fail" server="ftp.webmhole.altervista.org" local="131621266510278362" remote="131622314400000000" Dst="1" />
+<file name="outsideStmt.test" server="ftp.webmhole.altervista.org" local="131621266509340835" remote="131622314400000000" Dst="1" />
+</dwsync>

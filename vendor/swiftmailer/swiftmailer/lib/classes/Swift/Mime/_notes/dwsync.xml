@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Attachment.php" server="ftp.tecmar.altervista.org" local="131621267804287039" remote="131615250600000000" Dst="1" />
+<file name="CharsetObserver.php" server="ftp.tecmar.altervista.org" local="131621267804599472" remote="131615250600000000" Dst="1" />
+<file name="ContentEncoder.php" server="ftp.tecmar.altervista.org" local="131621267814756236" remote="131615250600000000" Dst="1" />
+<file name="EmbeddedFile.php" server="ftp.tecmar.altervista.org" local="131621267816318772" remote="131615250600000000" Dst="1" />
+<file name="EncodingObserver.php" server="ftp.tecmar.altervista.org" local="131621267816943797" remote="131615250600000000" Dst="1" />
+<file name="Grammar.php" server="ftp.tecmar.altervista.org" local="131621267818975136" remote="131615250600000000" Dst="1" />
+<file name="Header.php" server="ftp.tecmar.altervista.org" local="131621267820382333" remote="131615250600000000" Dst="1" />
+<file name="HeaderEncoder.php" server="ftp.tecmar.altervista.org" local="131621267824913809" remote="131615250600000000" Dst="1" />
+<file name="HeaderFactory.php" server="ftp.tecmar.altervista.org" local="131621267825538814" remote="131615250600000000" Dst="1" />
+<file name="HeaderSet.php" server="ftp.tecmar.altervista.org" local="131621267827570149" remote="131615250600000000" Dst="1" />
+<file name="Message.php" server="ftp.tecmar.altervista.org" local="131621267840695771" remote="131615250600000000" Dst="1" />
+<file name="MimeEntity.php" server="ftp.tecmar.altervista.org" local="131621267842258348" remote="131615250600000000" Dst="1" />
+<file name="MimePart.php" server="ftp.tecmar.altervista.org" local="131621267843352139" remote="131615250600000000" Dst="1" />
+<file name="ParameterizedHeader.php" server="ftp.tecmar.altervista.org" local="131621267844758478" remote="131615250600000000" Dst="1" />
+<file name="SimpleHeaderFactory.php" server="ftp.tecmar.altervista.org" local="131621267846477285" remote="131615250600000000" Dst="1" />
+<file name="SimpleHeaderSet.php" server="ftp.tecmar.altervista.org" local="131621267847727356" remote="131615250600000000" Dst="1" />
+<file name="SimpleMessage.php" server="ftp.tecmar.altervista.org" local="131621267849602481" remote="131615250600000000" Dst="1" />
+<file name="SimpleMimeEntity.php" server="ftp.tecmar.altervista.org" local="131621267851008745" remote="131615250600000000" Dst="1" />
+</dwsync>

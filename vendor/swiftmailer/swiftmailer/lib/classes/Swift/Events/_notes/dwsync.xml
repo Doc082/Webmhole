@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandEvent.php" server="ftp.tecmar.altervista.org" local="131621267754124844" remote="131615250600000000" Dst="1" />
+<file name="CommandListener.php" server="ftp.tecmar.altervista.org" local="131621267755999923" remote="131615250600000000" Dst="1" />
+<file name="Event.php" server="ftp.tecmar.altervista.org" local="131621267757718760" remote="131615250600000000" Dst="1" />
+<file name="EventDispatcher.php" server="ftp.tecmar.altervista.org" local="131621267758500053" remote="131615250600000000" Dst="1" />
+<file name="EventListener.php" server="ftp.tecmar.altervista.org" local="131621267760219833" remote="131615250600000000" Dst="1" />
+<file name="EventObject.php" server="ftp.tecmar.altervista.org" local="131621267761938670" remote="131615250600000000" Dst="1" />
+<file name="ResponseEvent.php" server="ftp.tecmar.altervista.org" local="131621267762407452" remote="131615250600000000" Dst="1" />
+<file name="ResponseListener.php" server="ftp.tecmar.altervista.org" local="131621267764282618" remote="131615250600000000" Dst="1" />
+<file name="SendEvent.php" server="ftp.tecmar.altervista.org" local="131621267766157615" remote="131615250600000000" Dst="1" />
+<file name="SendListener.php" server="ftp.tecmar.altervista.org" local="131621267766938900" remote="131615250600000000" Dst="1" />
+<file name="SimpleEventDispatcher.php" server="ftp.tecmar.altervista.org" local="131621267768813992" remote="131615250600000000" Dst="1" />
+<file name="TransportChangeEvent.php" server="ftp.tecmar.altervista.org" local="131621267770532808" remote="131615250600000000" Dst="1" />
+<file name="TransportChangeListener.php" server="ftp.tecmar.altervista.org" local="131621267771001594" remote="131615250600000000" Dst="1" />
+<file name="TransportExceptionEvent.php" server="ftp.tecmar.altervista.org" local="131621267772876690" remote="131615250600000000" Dst="1" />
+<file name="TransportExceptionListener.php" server="ftp.tecmar.altervista.org" local="131621267774439259" remote="131615250600000000" Dst="1" />
+</dwsync>

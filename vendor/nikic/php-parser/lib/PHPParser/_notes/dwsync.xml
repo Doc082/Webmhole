@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="ftp.tecmar.altervista.org" local="131621266128675278" remote="131614696800000000" Dst="1" />
+<file name="Builder.php" server="ftp.tecmar.altervista.org" local="131621266139614296" remote="131614696800000000" Dst="1" />
+<file name="BuilderAbstract.php" server="ftp.tecmar.altervista.org" local="131621266141801898" remote="131614696800000000" Dst="1" />
+<file name="BuilderFactory.php" server="ftp.tecmar.altervista.org" local="131621266142114405" remote="131614696800000000" Dst="1" />
+<file name="Comment.php" server="ftp.tecmar.altervista.org" local="131621266145708325" remote="131614696800000000" Dst="1" />
+<file name="Error.php" server="ftp.tecmar.altervista.org" local="131621266146020868" remote="131614696800000000" Dst="1" />
+<file name="Lexer.php" server="ftp.tecmar.altervista.org" local="131621266149771011" remote="131614696800000000" Dst="1" />
+<file name="Node.php" server="ftp.tecmar.altervista.org" local="131621266354268056" remote="131614696800000000" Dst="1" />
+<file name="NodeAbstract.php" server="ftp.tecmar.altervista.org" local="131621266355049345" remote="131614696800000000" Dst="1" />
+<file name="NodeDumper.php" server="ftp.tecmar.altervista.org" local="131621266356611922" remote="131614696800000000" Dst="1" />
+<file name="NodeTraverser.php" server="ftp.tecmar.altervista.org" local="131621266358486994" remote="131614696800000000" Dst="1" />
+<file name="NodeTraverserInterface.php" server="ftp.tecmar.altervista.org" local="131621266359424546" remote="131614696800000000" Dst="1" />
+<file name="NodeVisitor.php" server="ftp.tecmar.altervista.org" local="131621266363330993" remote="131614696800000000" Dst="1" />
+<file name="NodeVisitorAbstract.php" server="ftp.tecmar.altervista.org" local="131621266363330993" remote="131614696800000000" Dst="1" />
+<file name="Parser.php" server="ftp.tecmar.altervista.org" local="131621266368487470" remote="131614696800000000" Dst="1" />
+<file name="PrettyPrinterAbstract.php" server="ftp.tecmar.altervista.org" local="131621266371925143" remote="131614696800000000" Dst="1" />
+<file name="Serializer.php" server="ftp.tecmar.altervista.org" local="131621266373018930" remote="131614696800000000" Dst="1" />
+<file name="Template.php" server="ftp.tecmar.altervista.org" local="131621266375987837" remote="131614696800000000" Dst="1" />
+<file name="TemplateLoader.php" server="ftp.tecmar.altervista.org" local="131621266376769114" remote="131614696800000000" Dst="1" />
+<file name="Unserializer.php" server="ftp.tecmar.altervista.org" local="131621266380365661" remote="131614696800000000" Dst="1" />
+<file name="Autoloader.php" server="ftp.webmhole.altervista.org" local="131621266128675278" remote="131622313800000000" Dst="1" />
+<file name="Builder.php" server="ftp.webmhole.altervista.org" local="131621266139614296" remote="131622313800000000" Dst="1" />
+<file name="BuilderAbstract.php" server="ftp.webmhole.altervista.org" local="131621266141801898" remote="131622313800000000" Dst="1" />
+<file name="BuilderFactory.php" server="ftp.webmhole.altervista.org" local="131621266142114405" remote="131622313800000000" Dst="1" />
+<file name="Comment.php" server="ftp.webmhole.altervista.org" local="131621266145708325" remote="131622313800000000" Dst="1" />
+<file name="Error.php" server="ftp.webmhole.altervista.org" local="131621266146020868" remote="131622313800000000" Dst="1" />
+<file name="Lexer.php" server="ftp.webmhole.altervista.org" local="131621266149771011" remote="131622313800000000" Dst="1" />
+<file name="Node.php" server="ftp.webmhole.altervista.org" local="131621266354268056" remote="131622314400000000" Dst="1" />
+<file name="NodeDumper.php" server="ftp.webmhole.altervista.org" local="131621266356611922" remote="131622314400000000" Dst="1" />
+<file name="NodeTraverser.php" server="ftp.webmhole.altervista.org" local="131621266358486994" remote="131622314400000000" Dst="1" />
+<file name="NodeAbstract.php" server="ftp.webmhole.altervista.org" local="131621266355049345" remote="131622314400000000" Dst="1" />
+<file name="NodeVisitor.php" server="ftp.webmhole.altervista.org" local="131621266363330993" remote="131622314400000000" Dst="1" />
+<file name="NodeTraverserInterface.php" server="ftp.webmhole.altervista.org" local="131621266359424546" remote="131622314400000000" Dst="1" />
+<file name="NodeVisitorAbstract.php" server="ftp.webmhole.altervista.org" local="131621266363330993" remote="131622314400000000" Dst="1" />
+<file name="Parser.php" server="ftp.webmhole.altervista.org" local="131621266368487470" remote="131622314400000000" Dst="1" />
+<file name="PrettyPrinterAbstract.php" server="ftp.webmhole.altervista.org" local="131621266371925143" remote="131622314400000000" Dst="1" />
+<file name="Serializer.php" server="ftp.webmhole.altervista.org" local="131621266373018930" remote="131622314400000000" Dst="1" />
+<file name="Template.php" server="ftp.webmhole.altervista.org" local="131621266375987837" remote="131622314400000000" Dst="1" />
+<file name="TemplateLoader.php" server="ftp.webmhole.altervista.org" local="131621266376769114" remote="131622314400000000" Dst="1" />
+<file name="Unserializer.php" server="ftp.webmhole.altervista.org" local="131621266380365661" remote="131622314400000000" Dst="1" />
+</dwsync>

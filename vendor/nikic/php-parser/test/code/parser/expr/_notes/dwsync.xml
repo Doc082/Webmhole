@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="arrayDef.test" server="ftp.tecmar.altervista.org" local="131621266423704352" remote="131614696800000000" Dst="1" />
+<file name="assign.test" server="ftp.tecmar.altervista.org" local="131621266423704352" remote="131614696800000000" Dst="1" />
+<file name="cast.test" server="ftp.tecmar.altervista.org" local="131621266425735691" remote="131614696800000000" Dst="1" />
+<file name="closure.test" server="ftp.tecmar.altervista.org" local="131621266427610787" remote="131614696800000000" Dst="1" />
+<file name="clone.test" server="ftp.tecmar.altervista.org" local="131621266427610787" remote="131614696800000000" Dst="1" />
+<file name="comparison.test" server="ftp.tecmar.altervista.org" local="131621266429173352" remote="131614696800000000" Dst="1" />
+<file name="exit.test" server="ftp.tecmar.altervista.org" local="131621266431048456" remote="131614696800000000" Dst="1" />
+<file name="errorSuppress.test" server="ftp.tecmar.altervista.org" local="131621266431360962" remote="131614696800000000" Dst="1" />
+<file name="includeAndEval.test" server="ftp.tecmar.altervista.org" local="131621266443705288" remote="131614696800000000" Dst="1" />
+<file name="issetAndEmpty.test" server="ftp.tecmar.altervista.org" local="131621266446674183" remote="131614696800000000" Dst="1" />
+<file name="logic.test" server="ftp.tecmar.altervista.org" local="131621266447142945" remote="131614696800000000" Dst="1" />
+<file name="math.test" server="ftp.tecmar.altervista.org" local="131621266447455459" remote="131614696800000000" Dst="1" />
+<file name="new.test" server="ftp.tecmar.altervista.org" local="131621266450586127" remote="131614696800000000" Dst="1" />
+<file name="print.test" server="ftp.tecmar.altervista.org" local="131621266450742395" remote="131614696800000000" Dst="1" />
+<file name="shellExec.test" server="ftp.tecmar.altervista.org" local="131621266451211165" remote="131614696800000000" Dst="1" />
+<file name="ternary.test" server="ftp.tecmar.altervista.org" local="131621266454336335" remote="131614696800000000" Dst="1" />
+<file name="variable.test" server="ftp.tecmar.altervista.org" local="131621266454492570" remote="131614696800000000" Dst="1" />
+<file name="assign.test" server="ftp.webmhole.altervista.org" local="131621266423704352" remote="131622314400000000" Dst="1" />
+<file name="cast.test" server="ftp.webmhole.altervista.org" local="131621266425735691" remote="131622314400000000" Dst="1" />
+<file name="arrayDef.test" server="ftp.webmhole.altervista.org" local="131621266423704352" remote="131622314400000000" Dst="1" />
+<file name="clone.test" server="ftp.webmhole.altervista.org" local="131621266427610787" remote="131622314400000000" Dst="1" />
+<file name="closure.test" server="ftp.webmhole.altervista.org" local="131621266427610787" remote="131622314400000000" Dst="1" />
+<file name="comparison.test" server="ftp.webmhole.altervista.org" local="131621266429173352" remote="131622314400000000" Dst="1" />
+<file name="errorSuppress.test" server="ftp.webmhole.altervista.org" local="131621266431360962" remote="131622314400000000" Dst="1" />
+<file name="exit.test" server="ftp.webmhole.altervista.org" local="131621266431048456" remote="131622314400000000" Dst="1" />
+<file name="includeAndEval.test" server="ftp.webmhole.altervista.org" local="131621266443705288" remote="131622314400000000" Dst="1" />
+<file name="logic.test" server="ftp.webmhole.altervista.org" local="131621266447142945" remote="131622314400000000" Dst="1" />
+<file name="math.test" server="ftp.webmhole.altervista.org" local="131621266447455459" remote="131622314400000000" Dst="1" />
+<file name="new.test" server="ftp.webmhole.altervista.org" local="131621266450586127" remote="131622314400000000" Dst="1" />
+<file name="issetAndEmpty.test" server="ftp.webmhole.altervista.org" local="131621266446674183" remote="131622314400000000" Dst="1" />
+<file name="print.test" server="ftp.webmhole.altervista.org" local="131621266450742395" remote="131622314400000000" Dst="1" />
+<file name="shellExec.test" server="ftp.webmhole.altervista.org" local="131621266451211165" remote="131622314400000000" Dst="1" />
+<file name="ternary.test" server="ftp.webmhole.altervista.org" local="131621266454336335" remote="131622314400000000" Dst="1" />
+<file name="variable.test" server="ftp.webmhole.altervista.org" local="131621266454492570" remote="131622314400000000" Dst="1" />
+</dwsync>

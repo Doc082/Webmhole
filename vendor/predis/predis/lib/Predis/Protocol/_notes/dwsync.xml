@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandSerializerInterface.php" server="ftp.tecmar.altervista.org" local="131621267261535687" remote="131614698600000000" Dst="1" />
+<file name="ComposableProtocolInterface.php" server="ftp.tecmar.altervista.org" local="131621267262942013" remote="131614698600000000" Dst="1" />
+<file name="ProtocolException.php" server="ftp.tecmar.altervista.org" local="131621267264817093" remote="131614698600000000" Dst="1" />
+<file name="ProtocolInterface.php" server="ftp.tecmar.altervista.org" local="131621267265754633" remote="131614698600000000" Dst="1" />
+<file name="ResponseHandlerInterface.php" server="ftp.tecmar.altervista.org" local="131621267267160959" remote="131614698600000000" Dst="1" />
+<file name="ResponseReaderInterface.php" server="ftp.tecmar.altervista.org" local="131621267268723651" remote="131614698600000000" Dst="1" />
+</dwsync>

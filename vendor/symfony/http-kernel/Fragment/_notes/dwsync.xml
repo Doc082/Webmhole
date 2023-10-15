@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EsiFragmentRenderer.php" server="ftp.tecmar.altervista.org" local="131621269340234083" remote="131615253000000000" Dst="1" />
+<file name="AbstractSurrogateFragmentRenderer.php" server="ftp.tecmar.altervista.org" local="131621269340546593" remote="131615253000000000" Dst="1" />
+<file name="FragmentHandler.php" server="ftp.tecmar.altervista.org" local="131621269341953014" remote="131615253000000000" Dst="1" />
+<file name="FragmentRendererInterface.php" server="ftp.tecmar.altervista.org" local="131621269344609279" remote="131615253000000000" Dst="1" />
+<file name="HIncludeFragmentRenderer.php" server="ftp.tecmar.altervista.org" local="131621269344765559" remote="131615253000000000" Dst="1" />
+<file name="InlineFragmentRenderer.php" server="ftp.tecmar.altervista.org" local="131621269346484367" remote="131615253000000000" Dst="1" />
+<file name="RoutableFragmentRenderer.php" server="ftp.tecmar.altervista.org" local="131621269350547078" remote="131615253000000000" Dst="1" />
+<file name="SsiFragmentRenderer.php" server="ftp.tecmar.altervista.org" local="131621269350547078" remote="131615253000000000" Dst="1" />
+</dwsync>

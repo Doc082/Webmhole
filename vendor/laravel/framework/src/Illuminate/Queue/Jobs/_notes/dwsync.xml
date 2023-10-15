@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BeanstalkdJob.php" server="ftp.tecmar.altervista.org" local="131621265530989373" remote="131614695600000000" Dst="1" />
+<file name="IronJob.php" server="ftp.tecmar.altervista.org" local="131621265532708217" remote="131614695600000000" Dst="1" />
+<file name="Job.php" server="ftp.tecmar.altervista.org" local="131621265534895795" remote="131614695600000000" Dst="1" />
+<file name="RedisJob.php" server="ftp.tecmar.altervista.org" local="131621265534895795" remote="131614695600000000" Dst="1" />
+<file name="SqsJob.php" server="ftp.tecmar.altervista.org" local="131621265536458377" remote="131614695600000000" Dst="1" />
+<file name="SyncJob.php" server="ftp.tecmar.altervista.org" local="131621265538648397" remote="131614695600000000" Dst="1" />
+<file name="IronJob.php" server="ftp.webmhole.altervista.org" local="131621265532708217" remote="131622311400000000" Dst="1" />
+<file name="BeanstalkdJob.php" server="ftp.webmhole.altervista.org" local="131621265530989373" remote="131622311400000000" Dst="1" />
+<file name="Job.php" server="ftp.webmhole.altervista.org" local="131621265534895795" remote="131622311400000000" Dst="1" />
+<file name="RedisJob.php" server="ftp.webmhole.altervista.org" local="131621265534895795" remote="131622311400000000" Dst="1" />
+<file name="SqsJob.php" server="ftp.webmhole.altervista.org" local="131621265536458377" remote="131622311400000000" Dst="1" />
+<file name="SyncJob.php" server="ftp.webmhole.altervista.org" local="131621265538648397" remote="131622311400000000" Dst="1" />
+</dwsync>

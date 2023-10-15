@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AcceptHeader.php" server="ftp.tecmar.altervista.org" local="131621269035303868" remote="131615252400000000" Dst="1" />
+<file name="AcceptHeaderItem.php" server="ftp.tecmar.altervista.org" local="131621269037803977" remote="131615252400000000" Dst="1" />
+<file name="ApacheRequest.php" server="ftp.tecmar.altervista.org" local="131621269038897801" remote="131615252400000000" Dst="1" />
+<file name="BinaryFileResponse.php" server="ftp.tecmar.altervista.org" local="131621269039991588" remote="131615252400000000" Dst="1" />
+<file name="CHANGELOG.md" server="ftp.tecmar.altervista.org" local="131621269043116718" remote="131615252400000000" Dst="1" />
+<file name="Cookie.php" server="ftp.tecmar.altervista.org" local="131621269043272998" remote="131615252400000000" Dst="1" />
+<file name="ExpressionRequestMatcher.php" server="ftp.tecmar.altervista.org" local="131621269048585865" remote="131615252400000000" Dst="1" />
+<file name="FileBag.php" server="ftp.tecmar.altervista.org" local="131621269069055452" remote="131615252400000000" Dst="1" />
+<file name="HeaderBag.php" server="ftp.tecmar.altervista.org" local="131621269069992980" remote="131615252400000000" Dst="1" />
+<file name="IpUtils.php" server="ftp.tecmar.altervista.org" local="131621269071712912" remote="131615252400000000" Dst="1" />
+<file name="JsonResponse.php" server="ftp.tecmar.altervista.org" local="131621269073275465" remote="131615252400000000" Dst="1" />
+<file name="LICENSE" server="ftp.tecmar.altervista.org" local="131621269074525532" remote="131615252400000000" Dst="1" />
+<file name="ParameterBag.php" server="ftp.tecmar.altervista.org" local="131621269075931833" remote="131615252400000000" Dst="1" />
+<file name="README.md" server="ftp.tecmar.altervista.org" local="131621269078119435" remote="131615252400000000" Dst="1" />
+<file name="RedirectResponse.php" server="ftp.tecmar.altervista.org" local="131621269079369498" remote="131615252400000000" Dst="1" />
+<file name="RequestMatcherInterface.php" server="ftp.tecmar.altervista.org" local="131621269083275925" remote="131615252400000000" Dst="1" />
+<file name="RequestMatcher.php" server="ftp.tecmar.altervista.org" local="131621269083588452" remote="131615252400000000" Dst="1" />
+<file name="Request.php" server="ftp.tecmar.altervista.org" local="131621269083900966" remote="131615252400000000" Dst="1" />
+<file name="RequestStack.php" server="ftp.tecmar.altervista.org" local="131621269086869857" remote="131615252400000000" Dst="1" />
+<file name="Response.php" server="ftp.tecmar.altervista.org" local="131621269090463769" remote="131615252400000000" Dst="1" />
+<file name="ResponseHeaderBag.php" server="ftp.tecmar.altervista.org" local="131621269091090826" remote="131615252400000000" Dst="1" />
+<file name="ServerBag.php" server="ftp.tecmar.altervista.org" local="131621269091872017" remote="131615252400000000" Dst="1" />
+<file name="StreamedResponse.php" server="ftp.tecmar.altervista.org" local="131621269134471104" remote="131615252400000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621269211823369" remote="131615252400000000" Dst="1" />
+<file name="phpunit.xml.dist" server="ftp.tecmar.altervista.org" local="131621269214323486" remote="131615252400000000" Dst="1" />
+</dwsync>

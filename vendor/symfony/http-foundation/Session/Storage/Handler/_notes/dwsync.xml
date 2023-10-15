@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="LegacyPdoSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269108279032" remote="131615252400000000" Dst="1" />
+<file name="MemcacheSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269108591555" remote="131615252400000000" Dst="1" />
+<file name="MemcachedSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269109881784" remote="131615252400000000" Dst="1" />
+<file name="NativeFileSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269112748794" remote="131615252400000000" Dst="1" />
+<file name="MongoDbSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269113217626" remote="131615252400000000" Dst="1" />
+<file name="NativeSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269113842655" remote="131615252400000000" Dst="1" />
+<file name="NullSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269116499023" remote="131615252400000000" Dst="1" />
+<file name="WriteCheckSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269118530374" remote="131615252400000000" Dst="1" />
+<file name="PdoSessionHandler.php" server="ftp.tecmar.altervista.org" local="131621269118842885" remote="131615252400000000" Dst="1" />
+</dwsync>

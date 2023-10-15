@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ChromePHPFormatter.php" server="ftp.tecmar.altervista.org" local="131621265782195677" remote="131614696200000000" Dst="1" />
+<file name="ElasticaFormatter.php" server="ftp.tecmar.altervista.org" local="131621265784070765" remote="131614696200000000" Dst="1" />
+<file name="FlowdockFormatter.php" server="ftp.tecmar.altervista.org" local="131621265786102108" remote="131614696200000000" Dst="1" />
+<file name="FluentdFormatter.php" server="ftp.tecmar.altervista.org" local="131621265786570874" remote="131614696200000000" Dst="1" />
+<file name="FormatterInterface.php" server="ftp.tecmar.altervista.org" local="131621265788133463" remote="131614696200000000" Dst="1" />
+<file name="HtmlFormatter.php" server="ftp.tecmar.altervista.org" local="131621265790322125" remote="131614696200000000" Dst="1" />
+<file name="GelfMessageFormatter.php" server="ftp.tecmar.altervista.org" local="131621265790634643" remote="131614696200000000" Dst="1" />
+<file name="JsonFormatter.php" server="ftp.tecmar.altervista.org" local="131621265792197217" remote="131614696200000000" Dst="1" />
+<file name="LineFormatter.php" server="ftp.tecmar.altervista.org" local="131621265794384823" remote="131614696200000000" Dst="1" />
+<file name="LogglyFormatter.php" server="ftp.tecmar.altervista.org" local="131621265794541070" remote="131614696200000000" Dst="1" />
+<file name="LogstashFormatter.php" server="ftp.tecmar.altervista.org" local="131621265796259919" remote="131614696200000000" Dst="1" />
+<file name="MongoDBFormatter.php" server="ftp.tecmar.altervista.org" local="131621265798134998" remote="131614696200000000" Dst="1" />
+<file name="NormalizerFormatter.php" server="ftp.tecmar.altervista.org" local="131621265798760020" remote="131614696200000000" Dst="1" />
+<file name="ScalarFormatter.php" server="ftp.tecmar.altervista.org" local="131621265800166337" remote="131614696200000000" Dst="1" />
+<file name="WildfireFormatter.php" server="ftp.tecmar.altervista.org" local="131621265802666446" remote="131614696200000000" Dst="1" />
+<file name="ChromePHPFormatter.php" server="ftp.webmhole.altervista.org" local="131621265782195677" remote="131622312600000000" Dst="1" />
+<file name="ElasticaFormatter.php" server="ftp.webmhole.altervista.org" local="131621265784070765" remote="131622312600000000" Dst="1" />
+<file name="FlowdockFormatter.php" server="ftp.webmhole.altervista.org" local="131621265786102108" remote="131622312600000000" Dst="1" />
+<file name="FormatterInterface.php" server="ftp.webmhole.altervista.org" local="131621265788133463" remote="131622312600000000" Dst="1" />
+<file name="GelfMessageFormatter.php" server="ftp.webmhole.altervista.org" local="131621265790634643" remote="131622312600000000" Dst="1" />
+<file name="FluentdFormatter.php" server="ftp.webmhole.altervista.org" local="131621265786570874" remote="131622312600000000" Dst="1" />
+<file name="HtmlFormatter.php" server="ftp.webmhole.altervista.org" local="131621265790322125" remote="131622312600000000" Dst="1" />
+<file name="JsonFormatter.php" server="ftp.webmhole.altervista.org" local="131621265792197217" remote="131622312600000000" Dst="1" />
+<file name="LineFormatter.php" server="ftp.webmhole.altervista.org" local="131621265794384823" remote="131622312600000000" Dst="1" />
+<file name="LogglyFormatter.php" server="ftp.webmhole.altervista.org" local="131621265794541070" remote="131622312600000000" Dst="1" />
+<file name="LogstashFormatter.php" server="ftp.webmhole.altervista.org" local="131621265796259919" remote="131622312600000000" Dst="1" />
+<file name="MongoDBFormatter.php" server="ftp.webmhole.altervista.org" local="131621265798134998" remote="131622312600000000" Dst="1" />
+<file name="NormalizerFormatter.php" server="ftp.webmhole.altervista.org" local="131621265798760020" remote="131622312600000000" Dst="1" />
+<file name="ScalarFormatter.php" server="ftp.webmhole.altervista.org" local="131621265800166337" remote="131622312600000000" Dst="1" />
+<file name="WildfireFormatter.php" server="ftp.webmhole.altervista.org" local="131621265802666446" remote="131622312600000000" Dst="1" />
+</dwsync>

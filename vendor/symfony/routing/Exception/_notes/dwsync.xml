@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="ftp.tecmar.altervista.org" local="131621269618332504" remote="131615253000000000" Dst="1" />
+<file name="InvalidParameterException.php" server="ftp.tecmar.altervista.org" local="131621269621145152" remote="131615253000000000" Dst="1" />
+<file name="MethodNotAllowedException.php" server="ftp.tecmar.altervista.org" local="131621269621301403" remote="131615253000000000" Dst="1" />
+<file name="MissingMandatoryParametersException.php" server="ftp.tecmar.altervista.org" local="131621269622238930" remote="131615253000000000" Dst="1" />
+<file name="ResourceNotFoundException.php" server="ftp.tecmar.altervista.org" local="131621269624895311" remote="131615253000000000" Dst="1" />
+<file name="RouteNotFoundException.php" server="ftp.tecmar.altervista.org" local="131621269625207829" remote="131615253000000000" Dst="1" />
+<file name="ExceptionInterface.php" server="ftp.webmhole.altervista.org" local="131621269618332504" remote="131622356400000000" Dst="1" />
+<file name="InvalidParameterException.php" server="ftp.webmhole.altervista.org" local="131621269621145152" remote="131622356400000000" Dst="1" />
+<file name="MethodNotAllowedException.php" server="ftp.webmhole.altervista.org" local="131621269621301403" remote="131622356400000000" Dst="1" />
+<file name="MissingMandatoryParametersException.php" server="ftp.webmhole.altervista.org" local="131621269622238930" remote="131622356400000000" Dst="1" />
+<file name="ResourceNotFoundException.php" server="ftp.webmhole.altervista.org" local="131621269624895311" remote="131622356400000000" Dst="1" />
+<file name="RouteNotFoundException.php" server="ftp.webmhole.altervista.org" local="131621269625207829" remote="131622356400000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ComposableTextProtocolTest.php" server="ftp.tecmar.altervista.org" local="131621267611972091" remote="131614699200000000" Dst="1" />
+<file name="ResponseBulkHandlerTest.php" server="ftp.tecmar.altervista.org" local="131621267612909647" remote="131614699200000000" Dst="1" />
+<file name="ResponseErrorHandlerTest.php" server="ftp.tecmar.altervista.org" local="131621267615566019" remote="131614699200000000" Dst="1" />
+<file name="ResponseIntegerHandlerTest.php" server="ftp.tecmar.altervista.org" local="131621267616347320" remote="131614699200000000" Dst="1" />
+<file name="ResponseMultiBulkHandlerTest.php" server="ftp.tecmar.altervista.org" local="131621267616972325" remote="131614699200000000" Dst="1" />
+<file name="ResponseMultiBulkStreamHandlerTest.php" server="ftp.tecmar.altervista.org" local="131621267619784957" remote="131614699200000000" Dst="1" />
+<file name="ResponseStatusHandlerTest.php" server="ftp.tecmar.altervista.org" local="131621267620409994" remote="131614699200000000" Dst="1" />
+<file name="TextCommandSerializerTest.php" server="ftp.tecmar.altervista.org" local="131621267621191275" remote="131614699200000000" Dst="1" />
+<file name="TextProtocolTest.php" server="ftp.tecmar.altervista.org" local="131621267623847655" remote="131614699200000000" Dst="1" />
+<file name="TextResponseReaderTest.php" server="ftp.tecmar.altervista.org" local="131621267624785195" remote="131614699200000000" Dst="1" />
+</dwsync>

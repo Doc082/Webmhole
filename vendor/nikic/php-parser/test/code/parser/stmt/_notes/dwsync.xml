@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="blocklessStatement.test" server="ftp.tecmar.altervista.org" local="131621266462617946" remote="131614696800000000" Dst="1" />
+<file name="const.test" server="ftp.tecmar.altervista.org" local="131621266476838530" remote="131614696800000000" Dst="1" />
+<file name="controlFlow.test" server="ftp.tecmar.altervista.org" local="131621266477932321" remote="131614696800000000" Dst="1" />
+<file name="declare.test" server="ftp.tecmar.altervista.org" local="131621266480276182" remote="131614696800000000" Dst="1" />
+<file name="echo.test" server="ftp.tecmar.altervista.org" local="131621266480276182" remote="131614696800000000" Dst="1" />
+<file name="haltCompiler.test" server="ftp.tecmar.altervista.org" local="131621266490589173" remote="131614696800000000" Dst="1" />
+<file name="haltCompilerInvalidSyntax.test-fail" server="ftp.tecmar.altervista.org" local="131621266491057947" remote="131614696800000000" Dst="1" />
+<file name="haltCompilerOutermostScope.test-fail" server="ftp.tecmar.altervista.org" local="131621266491370450" remote="131614696800000000" Dst="1" />
+<file name="if.test" server="ftp.tecmar.altervista.org" local="131621266494183098" remote="131614696800000000" Dst="1" />
+<file name="inlineHTML.test" server="ftp.tecmar.altervista.org" local="131621266494808168" remote="131614696800000000" Dst="1" />
+<file name="switch.test" server="ftp.tecmar.altervista.org" local="131621266512622220" remote="131614696800000000" Dst="1" />
+<file name="tryCatch.test" server="ftp.tecmar.altervista.org" local="131621266513247253" remote="131614696800000000" Dst="1" />
+<file name="tryCatch.test-fail" server="ftp.tecmar.altervista.org" local="131621266514028538" remote="131614696800000000" Dst="1" />
+<file name="unset.test" server="ftp.tecmar.altervista.org" local="131621266516528655" remote="131614696800000000" Dst="1" />
+<file name="blocklessStatement.test" server="ftp.webmhole.altervista.org" local="131621266462617946" remote="131622314400000000" Dst="1" />
+<file name="const.test" server="ftp.webmhole.altervista.org" local="131621266476838530" remote="131622314400000000" Dst="1" />
+<file name="controlFlow.test" server="ftp.webmhole.altervista.org" local="131621266477932321" remote="131622314400000000" Dst="1" />
+<file name="declare.test" server="ftp.webmhole.altervista.org" local="131621266480276182" remote="131622314400000000" Dst="1" />
+<file name="echo.test" server="ftp.webmhole.altervista.org" local="131621266480276182" remote="131622314400000000" Dst="1" />
+<file name="haltCompiler.test" server="ftp.webmhole.altervista.org" local="131621266490589173" remote="131622314400000000" Dst="1" />
+<file name="haltCompilerInvalidSyntax.test-fail" server="ftp.webmhole.altervista.org" local="131621266491057947" remote="131622314400000000" Dst="1" />
+<file name="haltCompilerOutermostScope.test-fail" server="ftp.webmhole.altervista.org" local="131621266491370450" remote="131622314400000000" Dst="1" />
+<file name="if.test" server="ftp.webmhole.altervista.org" local="131621266494183098" remote="131622314400000000" Dst="1" />
+<file name="inlineHTML.test" server="ftp.webmhole.altervista.org" local="131621266494808168" remote="131622314400000000" Dst="1" />
+<file name="switch.test" server="ftp.webmhole.altervista.org" local="131621266512622220" remote="131622314400000000" Dst="1" />
+<file name="tryCatch.test" server="ftp.webmhole.altervista.org" local="131621266513247253" remote="131622314400000000" Dst="1" />
+<file name="tryCatch.test-fail" server="ftp.webmhole.altervista.org" local="131621266514028538" remote="131622314400000000" Dst="1" />
+<file name="unset.test" server="ftp.webmhole.altervista.org" local="131621266516528655" remote="131622314400000000" Dst="1" />
+</dwsync>

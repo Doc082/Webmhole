@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseCommand.php" server="ftp.tecmar.altervista.org" local="131621265246967485" remote="131614695600000000" Dst="1" />
+<file name="InstallCommand.php" server="ftp.tecmar.altervista.org" local="131621265248217506" remote="131614695600000000" Dst="1" />
+<file name="MigrateCommand.php" server="ftp.tecmar.altervista.org" local="131621265250873887" remote="131614695600000000" Dst="1" />
+<file name="MigrateMakeCommand.php" server="ftp.tecmar.altervista.org" local="131621265251030146" remote="131614695600000000" Dst="1" />
+<file name="RefreshCommand.php" server="ftp.tecmar.altervista.org" local="131621265252280209" remote="131614695600000000" Dst="1" />
+<file name="ResetCommand.php" server="ftp.tecmar.altervista.org" local="131621265254780330" remote="131614695600000000" Dst="1" />
+<file name="RollbackCommand.php" server="ftp.tecmar.altervista.org" local="131621265254936585" remote="131614695600000000" Dst="1" />
+<file name="InstallCommand.php" server="ftp.webmhole.altervista.org" local="131621265248217506" remote="131622309600000000" Dst="1" />
+<file name="MigrateCommand.php" server="ftp.webmhole.altervista.org" local="131621265250873887" remote="131622309600000000" Dst="1" />
+<file name="BaseCommand.php" server="ftp.webmhole.altervista.org" local="131621265246967485" remote="131622309600000000" Dst="1" />
+<file name="RefreshCommand.php" server="ftp.webmhole.altervista.org" local="131621265252280209" remote="131622309600000000" Dst="1" />
+<file name="MigrateMakeCommand.php" server="ftp.webmhole.altervista.org" local="131621265251030146" remote="131622309600000000" Dst="1" />
+<file name="RollbackCommand.php" server="ftp.webmhole.altervista.org" local="131621265254936585" remote="131622309600000000" Dst="1" />
+<file name="ResetCommand.php" server="ftp.webmhole.altervista.org" local="131621265254780330" remote="131622309600000000" Dst="1" />
+</dwsync>

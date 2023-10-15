@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractStreamBufferAcceptanceTest.php" server="ftp.tecmar.altervista.org" local="131621268035657731" remote="131615250600000000" Dst="1" />
+<file name="BasicSocketAcceptanceTest.php" server="ftp.tecmar.altervista.org" local="131621268037376560" remote="131615250600000000" Dst="1" />
+<file name="ProcessAcceptanceTest.php" server="ftp.tecmar.altervista.org" local="131621268039564175" remote="131615250600000000" Dst="1" />
+<file name="SocketTimeoutTest.php" server="ftp.tecmar.altervista.org" local="131621268039564175" remote="131615250600000000" Dst="1" />
+<file name="SslSocketAcceptanceTest.php" server="ftp.tecmar.altervista.org" local="131621268041127651" remote="131615250600000000" Dst="1" />
+<file name="TlsSocketAcceptanceTest.php" server="ftp.tecmar.altervista.org" local="131621268043627751" remote="131615250600000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Controller.php" server="ftp.tecmar.altervista.org" local="131621265573339507" remote="131614696200000000" Dst="1" />
+<file name="ControllerInspector.php" server="ftp.tecmar.altervista.org" local="131621265576620913" remote="131614696200000000" Dst="1" />
+<file name="ControllerDispatcher.php" server="ftp.tecmar.altervista.org" local="131621265576620913" remote="131614696200000000" Dst="1" />
+<file name="ControllerServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265577089683" remote="131614696200000000" Dst="1" />
+<file name="Redirector.php" server="ftp.tecmar.altervista.org" local="131621265599904630" remote="131614696200000000" Dst="1" />
+<file name="Route.php" server="ftp.tecmar.altervista.org" local="131621265603654809" remote="131614696200000000" Dst="1" />
+<file name="RouteCollection.php" server="ftp.tecmar.altervista.org" local="131621265603654809" remote="131614696200000000" Dst="1" />
+<file name="RouteFiltererInterface.php" server="ftp.tecmar.altervista.org" local="131621265603967312" remote="131614696200000000" Dst="1" />
+<file name="Router.php" server="ftp.tecmar.altervista.org" local="131621265609123801" remote="131614696200000000" Dst="1" />
+<file name="UrlGenerator.php" server="ftp.tecmar.altervista.org" local="131621265609123801" remote="131614696200000000" Dst="1" />
+<file name="RoutingServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265609123801" remote="131614696200000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621265613811524" remote="131614696200000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621265613811524" remote="131622311400000000" Dst="1" />
+<file name="Controller.php" server="ftp.webmhole.altervista.org" local="131621265573339507" remote="131622311400000000" Dst="1" />
+<file name="ControllerDispatcher.php" server="ftp.webmhole.altervista.org" local="131621265576620913" remote="131622311400000000" Dst="1" />
+<file name="ControllerInspector.php" server="ftp.webmhole.altervista.org" local="131621265576620913" remote="131622311400000000" Dst="1" />
+<file name="ControllerServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265577089683" remote="131622311400000000" Dst="1" />
+<file name="Route.php" server="ftp.webmhole.altervista.org" local="131621265603654809" remote="131622311400000000" Dst="1" />
+<file name="RouteCollection.php" server="ftp.webmhole.altervista.org" local="131621265603654809" remote="131622311400000000" Dst="1" />
+<file name="Redirector.php" server="ftp.webmhole.altervista.org" local="131621265599904630" remote="131622311400000000" Dst="1" />
+<file name="RouteFiltererInterface.php" server="ftp.webmhole.altervista.org" local="131621265603967312" remote="131622311400000000" Dst="1" />
+<file name="Router.php" server="ftp.webmhole.altervista.org" local="131621265609123801" remote="131622311400000000" Dst="1" />
+<file name="RoutingServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265609123801" remote="131622311400000000" Dst="1" />
+<file name="UrlGenerator.php" server="ftp.webmhole.altervista.org" local="131621265609123801" remote="131622311400000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Connection.php" server="ftp.tecmar.altervista.org" local="131621265231245378" remote="131614695600000000" Dst="1" />
+<file name="ConnectionInterface.php" server="ftp.tecmar.altervista.org" local="131621265233745507" remote="131614695600000000" Dst="1" />
+<file name="ConnectionResolver.php" server="ftp.tecmar.altervista.org" local="131621265233901763" remote="131614695600000000" Dst="1" />
+<file name="ConnectionResolverInterface.php" server="ftp.tecmar.altervista.org" local="131621265235151813" remote="131614695600000000" Dst="1" />
+<file name="DatabaseManager.php" server="ftp.tecmar.altervista.org" local="131621265259000109" remote="131614695600000000" Dst="1" />
+<file name="DatabaseServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265259156372" remote="131614695600000000" Dst="1" />
+<file name="Grammar.php" server="ftp.tecmar.altervista.org" local="131621265293534578" remote="131614695600000000" Dst="1" />
+<file name="MigrationServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265294315862" remote="131614695600000000" Dst="1" />
+<file name="MySqlConnection.php" server="ftp.tecmar.altervista.org" local="131621265307910242" remote="131614695600000000" Dst="1" />
+<file name="PostgresConnection.php" server="ftp.tecmar.altervista.org" local="131621265309160301" remote="131614695600000000" Dst="1" />
+<file name="QueryException.php" server="ftp.tecmar.altervista.org" local="131621265330568409" remote="131614695600000000" Dst="1" />
+<file name="README.md" server="ftp.tecmar.altervista.org" local="131621265333068522" remote="131614695600000000" Dst="1" />
+<file name="SQLiteConnection.php" server="ftp.tecmar.altervista.org" local="131621265334006074" remote="131614695600000000" Dst="1" />
+<file name="SeedServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265346506646" remote="131614695600000000" Dst="1" />
+<file name="Seeder.php" server="ftp.tecmar.altervista.org" local="131621265349008993" remote="131614695600000000" Dst="1" />
+<file name="SqlServerConnection.php" server="ftp.tecmar.altervista.org" local="131621265350571570" remote="131614695600000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621265351509151" remote="131614695600000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621265351509151" remote="131622309600000000" Dst="1" />
+<file name="ConnectionInterface.php" server="ftp.webmhole.altervista.org" local="131621265233745507" remote="131622309600000000" Dst="1" />
+<file name="Connection.php" server="ftp.webmhole.altervista.org" local="131621265231245378" remote="131622309600000000" Dst="1" />
+<file name="ConnectionResolverInterface.php" server="ftp.webmhole.altervista.org" local="131621265235151813" remote="131622309600000000" Dst="1" />
+<file name="ConnectionResolver.php" server="ftp.webmhole.altervista.org" local="131621265233901763" remote="131622309600000000" Dst="1" />
+<file name="DatabaseManager.php" server="ftp.webmhole.altervista.org" local="131621265259000109" remote="131622309600000000" Dst="1" />
+<file name="DatabaseServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265259156372" remote="131622309600000000" Dst="1" />
+<file name="Grammar.php" server="ftp.webmhole.altervista.org" local="131621265293534578" remote="131622309600000000" Dst="1" />
+<file name="MigrationServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265294315862" remote="131622309600000000" Dst="1" />
+<file name="MySqlConnection.php" server="ftp.webmhole.altervista.org" local="131621265307910242" remote="131622309600000000" Dst="1" />
+<file name="PostgresConnection.php" server="ftp.webmhole.altervista.org" local="131621265309160301" remote="131622309600000000" Dst="1" />
+<file name="QueryException.php" server="ftp.webmhole.altervista.org" local="131621265330568409" remote="131622309600000000" Dst="1" />
+<file name="README.md" server="ftp.webmhole.altervista.org" local="131621265333068522" remote="131622309600000000" Dst="1" />
+<file name="Seeder.php" server="ftp.webmhole.altervista.org" local="131621265349008993" remote="131622309600000000" Dst="1" />
+<file name="SeedServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265346506646" remote="131622309600000000" Dst="1" />
+<file name="SQLiteConnection.php" server="ftp.webmhole.altervista.org" local="131621265334006074" remote="131622309600000000" Dst="1" />
+<file name="SqlServerConnection.php" server="ftp.webmhole.altervista.org" local="131621265350571570" remote="131622310200000000" Dst="1" />
+</dwsync>

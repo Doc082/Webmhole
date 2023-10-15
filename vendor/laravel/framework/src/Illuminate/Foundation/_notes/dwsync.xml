@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AliasLoader.php" server="ftp.tecmar.altervista.org" local="131621265381668780" remote="131614695600000000" Dst="1" />
+<file name="Application.php" server="ftp.tecmar.altervista.org" local="131621265383387621" remote="131614695600000000" Dst="1" />
+<file name="AssetPublisher.php" server="ftp.tecmar.altervista.org" local="131621265385418976" remote="131614695600000000" Dst="1" />
+<file name="Artisan.php" server="ftp.tecmar.altervista.org" local="131621265386825278" remote="131614695600000000" Dst="1" />
+<file name="Composer.php" server="ftp.tecmar.altervista.org" local="131621265388857171" remote="131614695600000000" Dst="1" />
+<file name="ConfigPublisher.php" server="ftp.tecmar.altervista.org" local="131621265390576028" remote="131614695600000000" Dst="1" />
+<file name="EnvironmentDetector.php" server="ftp.tecmar.altervista.org" local="131621265418391185" remote="131614695600000000" Dst="1" />
+<file name="MigrationPublisher.php" server="ftp.tecmar.altervista.org" local="131621265419172485" remote="131614695600000000" Dst="1" />
+<file name="ProviderRepository.php" server="ftp.tecmar.altervista.org" local="131621265421203828" remote="131614695600000000" Dst="1" />
+<file name="ViewPublisher.php" server="ftp.tecmar.altervista.org" local="131621265444597132" remote="131614695600000000" Dst="1" />
+<file name="changes.json" server="ftp.tecmar.altervista.org" local="131621265446764146" remote="131614695600000000" Dst="1" />
+<file name="start.php" server="ftp.tecmar.altervista.org" local="131621265447545443" remote="131614695600000000" Dst="1" />
+<file name="Application.php" server="ftp.webmhole.altervista.org" local="131621265383387621" remote="131622310200000000" Dst="1" />
+<file name="Artisan.php" server="ftp.webmhole.altervista.org" local="131621265386825278" remote="131622310200000000" Dst="1" />
+<file name="AliasLoader.php" server="ftp.webmhole.altervista.org" local="131621265381668780" remote="131622310200000000" Dst="1" />
+<file name="AssetPublisher.php" server="ftp.webmhole.altervista.org" local="131621265385418976" remote="131622310200000000" Dst="1" />
+<file name="Composer.php" server="ftp.webmhole.altervista.org" local="131621265388857171" remote="131622310200000000" Dst="1" />
+<file name="changes.json" server="ftp.webmhole.altervista.org" local="131621265446764146" remote="131622310200000000" Dst="1" />
+<file name="ConfigPublisher.php" server="ftp.webmhole.altervista.org" local="131621265390576028" remote="131622310200000000" Dst="1" />
+<file name="EnvironmentDetector.php" server="ftp.webmhole.altervista.org" local="131621265418391185" remote="131622310200000000" Dst="1" />
+<file name="MigrationPublisher.php" server="ftp.webmhole.altervista.org" local="131621265419172485" remote="131622310200000000" Dst="1" />
+<file name="ProviderRepository.php" server="ftp.webmhole.altervista.org" local="131621265421203828" remote="131622310200000000" Dst="1" />
+<file name="start.php" server="ftp.webmhole.altervista.org" local="131621265447545443" remote="131622310200000000" Dst="1" />
+<file name="ViewPublisher.php" server="ftp.webmhole.altervista.org" local="131621265444597132" remote="131622310200000000" Dst="1" />
+</dwsync>

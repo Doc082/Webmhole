@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269004829712" remote="131615252400000000" Dst="1" />
+<file name="DateRangeFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269004829712" remote="131615252400000000" Dst="1" />
+<file name="DepthRangeFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269007486093" remote="131615252400000000" Dst="1" />
+<file name="ExcludeDirectoryFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269009204925" remote="131615252400000000" Dst="1" />
+<file name="FilePathsIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269009361172" remote="131615252400000000" Dst="1" />
+<file name="FileTypeFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269012176678" remote="131615252400000000" Dst="1" />
+<file name="FilecontentFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269012957987" remote="131615252400000000" Dst="1" />
+<file name="FilenameFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269013270497" remote="131615252400000000" Dst="1" />
+<file name="FilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269016083232" remote="131615252400000000" Dst="1" />
+<file name="Iterator.php" server="ftp.tecmar.altervista.org" local="131621269016551883" remote="131615252400000000" Dst="1" />
+<file name="IteratorTestCase.php" server="ftp.tecmar.altervista.org" local="131621269017801957" remote="131615252400000000" Dst="1" />
+<file name="MockFileListIterator.php" server="ftp.tecmar.altervista.org" local="131621269020145832" remote="131615252400000000" Dst="1" />
+<file name="MockSplFileInfo.php" server="ftp.tecmar.altervista.org" local="131621269020458326" remote="131615252400000000" Dst="1" />
+<file name="MultiplePcreFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269021864635" remote="131615252400000000" Dst="1" />
+<file name="PathFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269024208505" remote="131615252400000000" Dst="1" />
+<file name="RealIteratorTestCase.php" server="ftp.tecmar.altervista.org" local="131621269024364756" remote="131615252400000000" Dst="1" />
+<file name="RecursiveDirectoryIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269026083630" remote="131615252400000000" Dst="1" />
+<file name="SizeRangeFilterIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269027958672" remote="131615252400000000" Dst="1" />
+<file name="SortableIteratorTest.php" server="ftp.tecmar.altervista.org" local="131621269028427438" remote="131615252400000000" Dst="1" />
+</dwsync>

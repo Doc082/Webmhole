@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+* { margin: 0; padding: 0; }
+ 
+body {
+   	background-color: #000000;
+	background: url(/public/img/sf02.jpg) no-repeat fixed 0 100%; 
+	background-size:cover;
+	font-family: Verdana, sans-serif;
+    font-size: 12px;
+	color: #00FF4C;
+}
+ 
+form { margin: 100px; }
+fieldset { border: none; }
+
+fieldset fieldset legend {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
+}
+div.cont {
+  perspective: 500;
+  -webkit-perspective: 500;
+
+}
+div.prosp {
+	font-size:40px;
+	font-weight:bold;
+	transform: rotateX(45deg);
+  -webkit-transform: rotateX(45deg);
+} 
+
+ul li { list-style: none; margin: 20px 10px; }
+
+input, textarea, select {
+    font-size: 18px;
+	border: 1px solid #C6CFE2;
+    background: #F7FBFE;
+ }
+label {
+    font-size: 18px;
+	
+    font-weight: bold;
+}
+fieldset fieldset label {
+    margin-left: 50px;
+    width: 30px;
+}
+fieldset fieldset input {
+    border: none;
+    float: left;
+    margin: 0 20px 0 15px;
+}
+ 
+#submit {
+    background: #00FF4C;
+    color: #000000;
+    font-size: 24px;
+	font-weight: bold;
+    padding: 2px 10px;
+}
+
+a.button {
+    text-decoration:none;
+	background: #00FF4C;
+    color: #000000;
+    font-size: 20px;
+	font-weight: bold;
+    padding: 2px 10px;
+	
+	border-radius:5px;
+	-webkit-box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.175);
+    box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.175);
+}
+
+a.button:hover {
+ 	background-color: #3fd26b; 
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Connection.php" server="ftp.tecmar.altervista.org" local="131621265560838910" remote="131614695600000000" Dst="1" />
+<file name="ConnectionInterface.php" server="ftp.tecmar.altervista.org" local="131621265561776470" remote="131614695600000000" Dst="1" />
+<file name="GatewayInterface.php" server="ftp.tecmar.altervista.org" local="131621265564120340" remote="131614695600000000" Dst="1" />
+<file name="MultiConnection.php" server="ftp.tecmar.altervista.org" local="131621265564745345" remote="131614695600000000" Dst="1" />
+<file name="RemoteManager.php" server="ftp.tecmar.altervista.org" local="131621265566151679" remote="131614695600000000" Dst="1" />
+<file name="RemoteServiceProvider.php" server="ftp.tecmar.altervista.org" local="131621265568183018" remote="131614696200000000" Dst="1" />
+<file name="SecLibGateway.php" server="ftp.tecmar.altervista.org" local="131621265569276813" remote="131614696200000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621265571308160" remote="131614695600000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621265571308160" remote="131622311400000000" Dst="1" />
+<file name="Connection.php" server="ftp.webmhole.altervista.org" local="131621265560838910" remote="131622311400000000" Dst="1" />
+<file name="ConnectionInterface.php" server="ftp.webmhole.altervista.org" local="131621265561776470" remote="131622311400000000" Dst="1" />
+<file name="MultiConnection.php" server="ftp.webmhole.altervista.org" local="131621265564745345" remote="131622311400000000" Dst="1" />
+<file name="RemoteManager.php" server="ftp.webmhole.altervista.org" local="131621265566151679" remote="131622311400000000" Dst="1" />
+<file name="GatewayInterface.php" server="ftp.webmhole.altervista.org" local="131621265564120340" remote="131622311400000000" Dst="1" />
+<file name="RemoteServiceProvider.php" server="ftp.webmhole.altervista.org" local="131621265568183018" remote="131622311400000000" Dst="1" />
+<file name="SecLibGateway.php" server="ftp.webmhole.altervista.org" local="131621265569276813" remote="131622311400000000" Dst="1" />
+</dwsync>

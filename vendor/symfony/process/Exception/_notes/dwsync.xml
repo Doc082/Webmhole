@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="ftp.tecmar.altervista.org" local="131621269561920508" remote="131615253000000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="ftp.tecmar.altervista.org" local="131621269563795616" remote="131615253000000000" Dst="1" />
+<file name="ProcessFailedException.php" server="ftp.tecmar.altervista.org" local="131621269565826935" remote="131615253000000000" Dst="1" />
+<file name="LogicException.php" server="ftp.tecmar.altervista.org" local="131621269566608236" remote="131615253000000000" Dst="1" />
+<file name="ProcessTimedOutException.php" server="ftp.tecmar.altervista.org" local="131621269568483344" remote="131615253000000000" Dst="1" />
+<file name="RuntimeException.php" server="ftp.tecmar.altervista.org" local="131621269570202140" remote="131615253000000000" Dst="1" />
+<file name="ExceptionInterface.php" server="ftp.webmhole.altervista.org" local="131621269561920508" remote="131622356400000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="ftp.webmhole.altervista.org" local="131621269563795616" remote="131622356400000000" Dst="1" />
+<file name="LogicException.php" server="ftp.webmhole.altervista.org" local="131621269566608236" remote="131622356400000000" Dst="1" />
+<file name="ProcessFailedException.php" server="ftp.webmhole.altervista.org" local="131621269565826935" remote="131622356400000000" Dst="1" />
+<file name="ProcessTimedOutException.php" server="ftp.webmhole.altervista.org" local="131621269568483344" remote="131622356400000000" Dst="1" />
+<file name="RuntimeException.php" server="ftp.webmhole.altervista.org" local="131621269570202140" remote="131622356400000000" Dst="1" />
+</dwsync>

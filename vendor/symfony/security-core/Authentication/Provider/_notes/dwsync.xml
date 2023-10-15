@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AnonymousAuthenticationProvider.php" server="ftp.tecmar.altervista.org" local="131621269797354281" remote="131615253600000000" Dst="1" />
+<file name="AuthenticationProviderInterface.php" server="ftp.tecmar.altervista.org" local="131621269798760615" remote="131615253600000000" Dst="1" />
+<file name="DaoAuthenticationProvider.php" server="ftp.tecmar.altervista.org" local="131621269799541928" remote="131615253600000000" Dst="1" />
+<file name="PreAuthenticatedAuthenticationProvider.php" server="ftp.tecmar.altervista.org" local="131621269804854656" remote="131615253600000000" Dst="1" />
+<file name="RememberMeAuthenticationProvider.php" server="ftp.tecmar.altervista.org" local="131621269806104711" remote="131615253600000000" Dst="1" />
+<file name="SimpleAuthenticationProvider.php" server="ftp.tecmar.altervista.org" local="131621269806104711" remote="131615253600000000" Dst="1" />
+<file name="UserAuthenticationProvider.php" server="ftp.tecmar.altervista.org" local="131621269810011207" remote="131615253600000000" Dst="1" />
+</dwsync>

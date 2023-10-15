@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EnvironmentVariables.php" server="ftp.tecmar.altervista.org" local="131621265201866827" remote="131614695600000000" Dst="1" />
+<file name="EnvironmentVariablesLoaderInterface.php" server="ftp.tecmar.altervista.org" local="131621265203429401" remote="131614695600000000" Dst="1" />
+<file name="FileEnvironmentVariablesLoader.php" server="ftp.tecmar.altervista.org" local="131621265205929518" remote="131614695600000000" Dst="1" />
+<file name="FileLoader.php" server="ftp.tecmar.altervista.org" local="131621265206242024" remote="131614695600000000" Dst="1" />
+<file name="LoaderInterface.php" server="ftp.tecmar.altervista.org" local="131621265207804614" remote="131614695600000000" Dst="1" />
+<file name="Repository.php" server="ftp.tecmar.altervista.org" local="131621265210148463" remote="131614695600000000" Dst="1" />
+<file name="composer.json" server="ftp.tecmar.altervista.org" local="131621265210773509" remote="131614695600000000" Dst="1" />
+<file name="EnvironmentVariables.php" server="ftp.webmhole.altervista.org" local="131621265201866827" remote="131622309000000000" Dst="1" />
+<file name="composer.json" server="ftp.webmhole.altervista.org" local="131621265210773509" remote="131622309000000000" Dst="1" />
+<file name="EnvironmentVariablesLoaderInterface.php" server="ftp.webmhole.altervista.org" local="131621265203429401" remote="131622309000000000" Dst="1" />
+<file name="FileLoader.php" server="ftp.webmhole.altervista.org" local="131621265206242024" remote="131622309000000000" Dst="1" />
+<file name="FileEnvironmentVariablesLoader.php" server="ftp.webmhole.altervista.org" local="131621265205929518" remote="131622309000000000" Dst="1" />
+<file name="LoaderInterface.php" server="ftp.webmhole.altervista.org" local="131621265207804614" remote="131622309000000000" Dst="1" />
+<file name="Repository.php" server="ftp.webmhole.altervista.org" local="131621265210148463" remote="131622309000000000" Dst="1" />
+</dwsync>
